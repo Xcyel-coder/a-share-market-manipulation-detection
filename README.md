@@ -38,9 +38,3 @@ python code/model/scripts/run_pretrain.py
 python code/model/scripts/run_finetune.py
 python code/data_pipeline/run_pipeline.py full
 ```
-
-## 未放入本仓库的内容
-
-- 模型权重（`*.pt`，单文件约 100MB，且有多份重复备份）
-- AutoDL 打包备份（单个压缩包超过 GitHub 100MB 文件上限）
-- 第三方论文 PDF、学校表格模板，以及与本课题无关的个人文档
