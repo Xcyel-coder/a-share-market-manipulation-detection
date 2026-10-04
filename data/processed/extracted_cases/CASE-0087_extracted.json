@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0087",
+  "case_number": "202317.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "603222",
+  "stock_name": "济民医疗",
+  "manipulation_start_date": "2017-03-29",
+  "manipulation_end_date": "2018-02-05",
+  "manipulation_duration_days": 313,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "603222.SH"
+}

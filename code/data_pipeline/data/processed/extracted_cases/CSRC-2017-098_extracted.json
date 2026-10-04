@@ -1,0 +1,33 @@
+{
+  "doc_id": "CSRC-2017-098",
+  "case_number": "201798号",
+  "defendant_name": "廖国沛",
+  "defendant_type": "个人",
+  "stock_code": "000591",
+  "stock_name": "桐君阁",
+  "manipulation_start_date": "2014-01-01",
+  "manipulation_end_date": "2016-06-30",
+  "manipulation_duration_days": 912,
+  "manipulation_methods": [
+    "虚假申报",
+    "尾市拉抬"
+  ],
+  "manipulation_description": "廖国沛控制使用账户组，集中资金优势、持股优势，通过大额封涨停、虚假申报并封涨停、盘中拉抬并封涨停等方式，影响桐君阁等15只股票的交易价格和交易量，并于次日反向卖出获利。",
+  "account_count": 28,
+  "account_group_description": "12人名下28个证券账户，分为廖国沛家庭账户组、江某芬家庭账户组和廖国沛朋友账户。",
+  "involved_amount": 0.0,
+  "illegal_profit": 27164867.74,
+  "penalty_type": "没收、罚款",
+  "fine_amount": 54329735.48,
+  "confiscation_amount": 27164867.74,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042650/content.shtml",
+  "publish_date": "2024-01-29 10:08:37",
+  "extract_time": "2026-03-05T13:33:39.790335",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "2014年1月至2016年6月，廖国沛控制使用其本人、杨 某 英、卢 某 怡、廖 某 昌、卢 某 霞、卢 某 浩、李 某 、江 某 芬、江 某 林、江 某 、招 某 燕和王 某 文等12人名下28个证券账户（以下简称账户组）",
+    "2014年1月至2016年6月，廖国沛控制使用账户组，集中资金优势、持股优势，通过大额封涨停、虚假申报并封涨停、盘中拉抬并封涨停等方式，影响  桐君阁  等15只股票的交易价格和交易量，并于次日反向卖出获利27164867.74元。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度， 依据《证券法》第二百零三条的规定，我会决定：没收廖国沛违法所得27164867.74元，并处以54329735.48元罚款。"
+  ]
+}

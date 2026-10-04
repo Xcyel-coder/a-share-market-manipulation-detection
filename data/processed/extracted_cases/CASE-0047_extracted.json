@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0047",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002807",
+  "stock_name": "江阴银行",
+  "manipulation_start_date": "2017-02-10",
+  "manipulation_end_date": "2017-05-09",
+  "manipulation_duration_days": 88,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002807.SZ"
+}

@@ -1,0 +1,28 @@
+{
+  "total_symbols": 4,
+  "total_labels": 30,
+  "symbols": {
+    "FLOKIUSDT": {
+      "labels_count": 7,
+      "sequences_count": 7
+    },
+    "SHIBUSDT": {
+      "labels_count": 7,
+      "sequences_count": 7
+    },
+    "PEPEUSDT": {
+      "labels_count": 3,
+      "sequences_count": 3
+    },
+    "DOGEUSDT": {
+      "labels_count": 13,
+      "sequences_count": 13
+    }
+  },
+  "config": {
+    "price_surge_threshold": 0.1,
+    "volume_multiplier": 5,
+    "price_drop_threshold": 0.5
+  },
+  "label_time": "2026-03-05T14:43:53.716024"
+}

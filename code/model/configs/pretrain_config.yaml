@@ -1,0 +1,122 @@
+# =============================================================
+# Phase 2: Self-supervised Pre-training Configuration
+# Model: Custom Time-Series MoE Encoder
+# Data:  Crypto 1-min OHLCV (~9.7M bars, 6 pairs)
+# GPU:   RTX 5090 32GB
+# =============================================================
+
+# --- Data ---
+data:
+  raw_dir: "/root/project/data/raw/crypto"
+  processed_dir: "/root/project/data/processed/pretrain"
+  symbols:
+    - "BTCUSDT"
+    - "ETHUSDT"
+    - "DOGEUSDT"
+    - "SHIBUSDT"
+    - "PEPEUSDT"
+    - "FLOKIUSDT"
+
+  seq_len: 256              # sliding window length (minutes)
+  stride: 64                # window stride (4:1 overlap ratio)
+  val_ratio: 0.1            # last 10% of time range for validation
+
+  # Feature engineering
+  features:
+    returns_horizons: [1, 5, 15, 30, 60]
+    volume_ma_window: 60
+    rsi_period: 14
+    bb_period: 20
+    atr_period: 14
+
+  # Anomaly labels for auxiliary contrastive learning (lowered thresholds)
+  anomaly:
+    price_surge_threshold: 0.02   # 2% (further lowered to capture more events)
+    volume_multiplier: 2.0        # 2x (further lowered)
+    surge_window: 10              # 10 minutes window
+    min_gap_between: 15           # 15 min gap (more frequent events)
+
+# --- Model ---
+model:
+  d_model: 256
+  n_heads: 8
+  n_layers: 6
+  d_ff: 512                 # per-expert FFN hidden dim
+  dropout: 0.1
+
+  # MoE configuration
+  moe:
+    num_routed_experts: 8
+    num_shared_experts: 2
+    top_k: 2
+    router_jitter: 0.1      # noise for load balancing during training
+    load_balance_weight: 0.01
+
+  # Positional encoding
+  max_seq_len: 512
+
+# --- Pre-training Objectives ---
+pretrain:
+  # Main objective 1: Masked Autoencoder (weight 0.4)
+  mae:
+    mask_ratio: 0.25         # fraction of timesteps to mask
+    block_mask: true          # use contiguous block masking
+    min_block_len: 4
+    max_block_len: 16
+
+  # Main objective 2: Anomaly prediction (weight 0.3)
+  anomaly_pred:
+    lookahead_window: 10     # predict if next N bars contain anomaly
+
+  # Auxiliary objective: Contrastive learning (weight 0.3)
+  contrastive:
+    temperature: 0.07
+    queue_size: 4096         # UNUSED: planned memory bank, actual impl uses batch-internal InfoNCE
+
+  loss_weights:
+    mae: 0.4
+    anomaly: 0.3
+    contrastive: 0.3
+
+# --- Training ---
+training:
+  # 3-round progressive training
+  rounds:
+    - name: "round1_validation"
+      data_fraction: 0.10
+      epochs: 15
+      lr: 3.0e-4
+      batch_size: 256
+      warmup_ratio: 0.1
+
+    - name: "round2_tuning"
+      data_fraction: 0.50
+      epochs: 25
+      lr: 1.0e-4
+      batch_size: 256
+      warmup_ratio: 0.05
+
+    - name: "round3_full"
+      data_fraction: 1.0
+      epochs: 40
+      lr: 5.0e-5
+      batch_size: 256
+      warmup_ratio: 0.03
+
+  # Common settings
+  weight_decay: 0.01
+  max_grad_norm: 1.0
+  scheduler: "cosine"
+  fp16: true
+  seed: 42
+
+  # Checkpointing
+  save_every_n_epochs: 5
+  eval_every_n_steps: 500
+  log_every_n_steps: 50
+
+# --- Output ---
+output:
+  dir: "/root/project/outputs/pretrain"
+  wandb_project: "astock-manipulation-pretrain"
+  wandb_enabled: false       # set true when ready

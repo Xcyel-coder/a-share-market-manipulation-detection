@@ -1,0 +1,30 @@
+{
+  "doc_id": "CSRC-2023-267",
+  "case_number": "2023267号",
+  "defendant_name": "刘建勋、刘琅问",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": "星星科技",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "星星科技子公司虚构销售、虚构租赁和加工业务、虚构采购、虚假采购折扣，星星科技虚增营业收入、营业成本和利润总额，少计提商誉减值损失，导致星星科技 2019 年年度报告和 2020 年年度报告存在虚假记载。",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 0.0,
+  "illegal_profit": 0.0,
+  "penalty_type": "警告、罚款、市场禁入",
+  "fine_amount": 4500000.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 99,
+  "source_url": "http://www.csrc.gov.cn/csrc/c105938/c7b33ab0ae8e6472198c9b82e4e8e2680/content.shtml",
+  "publish_date": "2024-08-28 16:04:51",
+  "extract_time": "2026-03-05T13:32:57.186969",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "申请人刘建勋、刘琅问不服被申请人《行政处罚决定书》（ 2023  56 号，以下简称《处罚决定》）及《市场禁入决定书》（ 2023  22 号，以下简称《禁入决定》）对其二人作出的行政处罚、市场禁入，向中国证券监督管理委员会 （以下简称本会或中国证监会）申请行政复议。本会受理后，依法进行了审查，现已审查终结。",
+    "时任董事长刘建勋，时任副总经理刘琅问保证星星科技 2019 年年度报告内容真实、准确、完整，并签署了年度报告书面确认意见。时任董事长刘琅问保证星星科技 2020 年年度报告内容真实、准确、完整，并签署了年度报告书面确认意见。",
+    "刘建勋、刘琅问组织、实施了上述信息披露违法行为，并采取了编造重要事实等恶劣手段，涉案数额特别巨大，违法情节特别严重。依据《证券法》第二百二十一条以及《证券市场禁入规定》（证监会令第 115 号，以下简称《禁入规定》）第三条第一项、第五条第三项，被申请人决定对刘建勋、刘琅问分别采取终身市场禁入措施。"
+  ]
+}

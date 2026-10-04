@@ -1,0 +1,16 @@
+{
+  "symbol": "FLOKIUSDT",
+  "total_labels": 7,
+  "total_sequences": 7,
+  "config": {
+    "price_surge_threshold": 0.1,
+    "price_surge_window": 5,
+    "volume_multiplier": 5,
+    "price_drop_threshold": 0.5,
+    "price_drop_window": 30,
+    "min_pump_duration": 2,
+    "min_dump_duration": 5,
+    "volume_baseline_window": 60
+  },
+  "label_time": "2026-03-05T14:37:14.937147"
+}

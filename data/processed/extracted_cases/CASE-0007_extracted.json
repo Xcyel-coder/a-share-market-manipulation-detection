@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0007",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "000683",
+  "stock_name": "远兴能源",
+  "manipulation_start_date": "2016-08-19",
+  "manipulation_end_date": "2016-11-07",
+  "manipulation_duration_days": 80,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "1支股票在两段时期内被操纵",
+  "source": "third_party_excel",
+  "original_stock_code": "000683.SZ"
+}

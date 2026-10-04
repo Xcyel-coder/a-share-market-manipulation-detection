@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0034",
+  "case_number": "2021125.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002548",
+  "stock_name": "金新农",
+  "manipulation_start_date": "2018-08-20",
+  "manipulation_end_date": "2019-02-22",
+  "manipulation_duration_days": 186,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002548.SZ"
+}

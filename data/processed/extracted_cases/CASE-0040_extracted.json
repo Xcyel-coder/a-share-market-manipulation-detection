@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0040",
+  "case_number": "202370.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002721",
+  "stock_name": "金一文化",
+  "manipulation_start_date": "2017-12-07",
+  "manipulation_end_date": "2018-05-28",
+  "manipulation_duration_days": 172,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002721.SZ"
+}

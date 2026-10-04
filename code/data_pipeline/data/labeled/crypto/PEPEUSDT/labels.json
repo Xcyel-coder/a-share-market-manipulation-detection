@@ -1,0 +1,74 @@
+[
+  {
+    "label_id": "PEPEUSDT_1683934620000",
+    "symbol": "PEPEUSDT",
+    "start_time": "2023-05-12 23:37:00",
+    "end_time": "2023-05-12 23:46:00",
+    "manipulation_type": "pump_and_dump",
+    "pump_start_price": 1.58e-06,
+    "pump_peak_price": 1.9e-06,
+    "pump_return": 0.20253164556962033,
+    "pump_duration_minutes": 5,
+    "pump_volume_ratio": 5.348369168220073,
+    "dump_end_price": 1.73e-06,
+    "dump_return": -0.08947368421052634,
+    "dump_duration_minutes": 4,
+    "total_duration_minutes": 9,
+    "avg_volume": 596903881551.5,
+    "max_volume": 3586885290890.0,
+    "confidence": 0.7000000000000001,
+    "rule_triggered": [
+      "price_surge",
+      "volume_spike",
+      "price_dump"
+    ]
+  },
+  {
+    "label_id": "PEPEUSDT_1721088240000",
+    "symbol": "PEPEUSDT",
+    "start_time": "2024-07-16 00:04:00",
+    "end_time": "2024-07-16 00:16:00",
+    "manipulation_type": "pump_and_dump",
+    "pump_start_price": 1.145e-05,
+    "pump_peak_price": 1.262e-05,
+    "pump_return": 0.10218340611353702,
+    "pump_duration_minutes": 5,
+    "pump_volume_ratio": 6.527971740248884,
+    "dump_end_price": 1.196e-05,
+    "dump_return": -0.052297939778129854,
+    "dump_duration_minutes": 7,
+    "total_duration_minutes": 12,
+    "avg_volume": 364965929337.7692,
+    "max_volume": 1697595888835.0,
+    "confidence": 0.55,
+    "rule_triggered": [
+      "price_surge",
+      "volume_spike",
+      "price_dump"
+    ]
+  },
+  {
+    "label_id": "PEPEUSDT_1731504240000",
+    "symbol": "PEPEUSDT",
+    "start_time": "2024-11-13 13:24:00",
+    "end_time": "2024-11-13 13:37:00",
+    "manipulation_type": "pump_and_dump",
+    "pump_start_price": 1.488e-05,
+    "pump_peak_price": 1.643e-05,
+    "pump_return": 0.1041666666666667,
+    "pump_duration_minutes": 5,
+    "pump_volume_ratio": 6.399200725573519,
+    "dump_end_price": 1.564e-05,
+    "dump_return": -0.048082775410833896,
+    "dump_duration_minutes": 8,
+    "total_duration_minutes": 13,
+    "avg_volume": 1106329586000.8572,
+    "max_volume": 1617240545095.0,
+    "confidence": 0.55,
+    "rule_triggered": [
+      "price_surge",
+      "volume_spike",
+      "price_dump"
+    ]
+  }
+]

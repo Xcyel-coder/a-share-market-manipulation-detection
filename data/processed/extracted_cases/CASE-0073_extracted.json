@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0073",
+  "case_number": "201729.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "600696",
+  "stock_name": "多伦股份",
+  "manipulation_start_date": "2014-01-17",
+  "manipulation_end_date": "2015-06-12",
+  "manipulation_duration_days": 511,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "操控时间极长",
+  "source": "third_party_excel",
+  "original_stock_code": "600696.SH"
+}

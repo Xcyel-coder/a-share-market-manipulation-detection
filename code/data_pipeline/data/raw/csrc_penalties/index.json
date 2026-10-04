@@ -1,0 +1,741 @@
+{
+  "total": 64,
+  "manipulation_cases": 35,
+  "other_cases": 29,
+  "update_time": "2026-04-01T15:22:29.698175",
+  "files": [
+    {
+      "doc_id": "CSRC-2015-034",
+      "title": "中国证监会行政处罚决定书（唐汉博）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:06:37",
+      "keywords": [
+        "操纵",
+        "拉抬",
+        "虚假申报",
+        "撤单",
+        "连续买卖",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c1042946/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-064",
+      "title": "中国证监会行政处罚决定书（王宇勤、冯玉露）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-01-29 10:08:09",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042680/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-072",
+      "title": "中国证监会行政处罚决定书（林庆义）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-01-29 10:08:06",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042674/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-077",
+      "title": "中国证监会行政处罚决定书（周晨）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:07:32",
+      "keywords": [
+        "操纵"
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042668/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-084",
+      "title": "中国证监会行政处罚决定书（中兴华会计师事务所、聂捷慧、张学锋等4名责任人员）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-01-29 10:07:49",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042662/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-087",
+      "title": "中国证监会行政处罚决定书（山东墨龙石油机械股份有限公司、张恩荣、张云三等19名责任人员）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:09:03",
+      "keywords": [
+        "拉抬"
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042656/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-095",
+      "title": "中国证监会行政处罚决定书（广西慧球科技股份有限公司、董文亮、陆俊安）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-01-29 10:10:43",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042651/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-097",
+      "title": "中国证监会行政处罚决定书（哈尔滨电气集团佳木斯电机股份有限公司、赵明、梁喜华等23名责任人员）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-01-29 10:07:09",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042649/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-098",
+      "title": "中国证监会行政处罚决定书（廖国沛）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:08:37",
+      "keywords": [
+        "操纵",
+        "拉抬",
+        "虚假申报",
+        "撤单",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042650/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-102",
+      "title": "中国证监会行政处罚决定书（江苏雅百特科技股份有限公司、陆永、顾彤莉等21名责任人员）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-01-29 10:07:10",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042644/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2017-109",
+      "title": "中国证监会行政处罚决定书（陆茜）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-01-29 10:06:48",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042638/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2018-002",
+      "title": "中国证监会行政处罚决定书（徐晗坤）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-01-29 10:06:43",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042632/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2018-012",
+      "title": "中国证监会行政处罚决定书（孟祥龙）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:06:49",
+      "keywords": [
+        "操纵",
+        "拉抬",
+        "尾市",
+        "账户组"
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042624/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2018-013",
+      "title": "中国证监会行政处罚决定书（冯志浩）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:08:02",
+      "keywords": [
+        "操纵",
+        "虚假申报",
+        "撤单",
+        "尾市"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c1042625/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2018-014",
+      "title": "中国证监会行政处罚决定书（刘文金）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:06:35",
+      "keywords": [
+        "操纵",
+        "撤单",
+        "集中资金优势",
+        "账户组"
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042623/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2018-022",
+      "title": "中国证监会行政处罚决定书（廖英强）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:07:04",
+      "keywords": [
+        "操纵",
+        "账户组"
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1042622/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2020-081",
+      "title": "中国证监会行政处罚决定书（田文军）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:07:51",
+      "keywords": [
+        "操纵",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c1416745/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2021-124",
+      "title": "中国证监会行政处罚决定书（郑德胜）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:07:26",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c1782466/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2022-049",
+      "title": "中国证监会行政处罚决定书（盛投和、李佰奇、宋志强）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:07:39",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "连续交易",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c6222796/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2022-061",
+      "title": "中国证监会行政处罚决定书（林永贤、陈宪生、孙磊、徐骏）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:08:54",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "连续买卖",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7088656/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2022-064",
+      "title": "中国证监会行政处罚决定书（王宝元）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:07:46",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "撤单",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c6932470/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-005",
+      "title": "中国证监会行政处罚决定书（易伟）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:08:07",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c7183832/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-037",
+      "title": "中国证监会行政处罚决定书（陈娜娜、杨杰、郑慧）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:08:48",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "尾市",
+        "连续交易",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7412277/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-054",
+      "title": "中国证券监督管理委员会上海监管局行政处罚决定书 沪〔2023〕54号",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-02 14:22:09",
+      "keywords": [
+        "操纵",
+        "拉抬",
+        "尾市",
+        "连续买卖",
+        "集中资金优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/shanghai/c103864/c7454310/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-055",
+      "title": "中国证监会行政处罚决定书（陈维新、张兆阳、朱瑞、李卫卫、朱一栋）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:06:52",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "虚假申报",
+        "撤单",
+        "尾市",
+        "连续买卖",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7422091/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-060",
+      "title": "中国证监会行政处罚决定书（赖登练）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:08:17",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "连续交易",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7429146/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-077",
+      "title": "中国证监会行政处罚决定书（森源集团、楚金甫、杨合岭、崔付军、孙威威）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:08:50",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "虚假申报",
+        "撤单",
+        "尾市",
+        "连续买卖",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7448170/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-083",
+      "title": "中国证监会行政处罚决定书（陈磊、吴限、林建武）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-01-29 10:08:54",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "打压",
+        "连续交易",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7457124/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-256",
+      "title": "中国证券监督管理委员会行政复议决定书（唐文峰）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-08-28 16:13:11",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c105938/ce704fffbb6a84f21a71141dfaf23a125/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-260",
+      "title": "中国证券监督管理委员会行政复议决定书（刘树成）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-08-28 17:15:37",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c105938/c163c6771215444689d1e5d73df60b8aa/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-262",
+      "title": "中国证券监督管理委员会行政复议决定书（陕西景唐投资管理有限公司）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-08-28 17:22:36",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c105938/c0efe9bbe65f64f3a8c531029227cf37d/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-267",
+      "title": "中国证券监督管理委员会行政复议决定书（刘建勋、刘琅问）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-08-28 16:04:51",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c105938/c7b33ab0ae8e6472198c9b82e4e8e2680/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-270",
+      "title": "中国证券监督管理委员会行政复议决定书（赵传仁）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-08-28 17:33:06",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c105938/ca4a8805d5fa0444cbbcdc4774199de07/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2023-274",
+      "title": "中国证券监督管理委员会行政复议决定书（马振罡）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-08-28 17:19:01",
+      "keywords": [
+        "操纵"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c105938/cb6d03490934245c0b69ae2eaf6f7b0cd/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-005",
+      "title": "中国证监会市场禁入决定书（郭新峰）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-03-29 16:05:53",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101927/c7470684/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-006",
+      "title": "中国证监会市场禁入决定书（钱仁勇、龙俊、石成华）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-04-19 17:49:07",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101927/c7474973/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-007",
+      "title": "中国证监会市场禁入决定书（刘斌、任大成、韩臻）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-04-19 17:35:28",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101927/c7474962/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-008",
+      "title": "中国证监会市场禁入决定书（张志勇）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-04-19 17:40:13",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101927/c7474964/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-009",
+      "title": "中国证监会市场禁入决定书（袁亚非、杨怀珍、檀加敏、宋荣荣）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-08-16 18:34:23",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101927/c7500975/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-010",
+      "title": "中国证监会市场禁入决定书（高松）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-07-05 19:33:42",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101927/c7491800/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-023",
+      "title": "中国证监会行政处罚决定书（王斌）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-04-03 17:54:11",
+      "keywords": [
+        "操纵",
+        "拉抬",
+        "连续交易",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7471690/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-046",
+      "title": "中国证监会行政处罚决定书（姜新、陈征、谢刚）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-07-05 21:10:56",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7491797/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-053",
+      "title": "中国证监会行政处罚决定书（冯越峰）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-08-16 17:05:09",
+      "keywords": [
+        "操纵",
+        "拉抬",
+        "洗售",
+        "连续买卖",
+        "集中资金优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7500836/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-058",
+      "title": "中国证监会行政处罚决定书（朱要文、赵杨、王立华）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-08-16 17:15:53",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7500884/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-059",
+      "title": "中国证监会行政处罚决定书（周文丽）",
+      "case_type": "其他证券违法",
+      "publish_date": "2024-08-16 17:18:44",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7500886/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2024-082",
+      "title": "中国证监会行政处罚决定书（陈韶隽、黄智俊）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-09-25 20:13:43",
+      "keywords": [
+        "操纵",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7508739/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7508746",
+      "title": "中国证监会行政处罚决定书（涂尔帆）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-09-25 20:19:28",
+      "keywords": [
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7508746/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7520315",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "操纵证券市场",
+      "publish_date": "2024-11-22 19:19:29",
+      "keywords": [
+        "操纵",
+        "拉抬",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7520315/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2021-004",
+      "title": "中国证券监督管理委员会广西监管局行政处罚决定书〔2021〕4号（蒋卫强）",
+      "case_type": "其他证券违法",
+      "publish_date": "2025-10-15 23:16:44",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/guangxi/c104662/c1664579/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2025-001",
+      "title": "中国证券监督管理委员会天津监管局行政处罚决定书（徐阳）",
+      "case_type": "操纵证券市场",
+      "publish_date": "2025-03-31 10:54:04",
+      "keywords": [
+        "操纵",
+        "虚假申报"
+      ],
+      "url": "https://www.csrc.gov.cn/tianjin/c103608/c7548029/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2025-003",
+      "title": "中国证券监督管理委员会黑龙江监管局行政处罚决定书〔2025〕3号",
+      "case_type": "其他证券违法",
+      "publish_date": "2025-11-11 15:44:24",
+      "keywords": [],
+      "url": "https://www.csrc.gov.cn/heilongjiang/c103836/c7594338/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7532746",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "操纵证券市场",
+      "publish_date": "2025-01-10 18:41:33",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7532746/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7532795",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "操纵证券市场",
+      "publish_date": "2025-01-10 18:53:15",
+      "keywords": [
+        "操纵",
+        "对倒",
+        "拉抬",
+        "连续买卖",
+        "集中资金优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7532795/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7564428",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "操纵证券市场",
+      "publish_date": "2025-06-13 19:19:03",
+      "keywords": [
+        "操纵",
+        "拉抬",
+        "连续交易",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7564428/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7564434",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "其他证券违法",
+      "publish_date": "2025-06-13 19:22:10",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7564434/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7584447",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "其他证券违法",
+      "publish_date": "2025-09-19 18:44:57",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7584447/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7601629",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "操纵证券市场",
+      "publish_date": "2025-12-12 17:34:15",
+      "keywords": [
+        "操纵",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c101928/c7601629/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7603416",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "其他证券违法",
+      "publish_date": "2025-12-19 18:54:02",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7603416/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7604842",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "其他证券违法",
+      "publish_date": "2025-12-26 18:25:22",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7604842/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-2025-045",
+      "title": "中国证券监督管理委员会浙江监管局行政处罚决定书",
+      "case_type": "操纵证券市场",
+      "publish_date": "2026-01-19 16:42:19",
+      "keywords": [
+        "操纵",
+        "账户组"
+      ],
+      "url": "https://www.csrc.gov.cn/zhejiang/c103950/c7609807/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7608088",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "其他证券违法",
+      "publish_date": "2026-01-09 18:06:16",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7608088/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7608109",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "其他证券违法",
+      "publish_date": "2026-01-09 18:16:38",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7608109/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7608116",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "其他证券违法",
+      "publish_date": "2026-01-09 18:22:43",
+      "keywords": [],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7608116/content.shtml"
+    },
+    {
+      "doc_id": "CSRC-URL-7610753",
+      "title": "中国证券监督管理委员会行政处罚决定书",
+      "case_type": "操纵证券市场",
+      "publish_date": "2026-01-23 17:03:33",
+      "keywords": [
+        "操纵",
+        "连续买卖",
+        "集中资金优势",
+        "持股优势",
+        "账户组"
+      ],
+      "url": "http://www.csrc.gov.cn/csrc/c101928/c7610753/content.shtml"
+    }
+  ]
+}

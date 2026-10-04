@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0048",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002839",
+  "stock_name": "张家港行",
+  "manipulation_start_date": "2017-02-10",
+  "manipulation_end_date": "2017-04-12",
+  "manipulation_duration_days": 61,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002839.SZ"
+}

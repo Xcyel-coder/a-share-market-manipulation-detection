@@ -1,0 +1,17 @@
+{
+  "total_symbols": 6,
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT",
+    "DOGEUSDT",
+    "SHIBUSDT",
+    "PEPEUSDT",
+    "FLOKIUSDT"
+  ],
+  "fetch_time": "2025-12-23T19:10:12.215662",
+  "config": {
+    "interval": "1m",
+    "start_date": "2021-01-01",
+    "end_date": "2024-12-01"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0063",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "600258",
+  "stock_name": "首旅酒店",
+  "manipulation_start_date": "2013-09-23",
+  "manipulation_end_date": "2014-08-27",
+  "manipulation_duration_days": 338,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "600258.SH"
+}

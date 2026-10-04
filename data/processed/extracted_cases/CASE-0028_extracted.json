@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0028",
+  "case_number": "2019140.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002278",
+  "stock_name": "神开股份",
+  "manipulation_start_date": "2016-10-14",
+  "manipulation_end_date": "2017-04-19",
+  "manipulation_duration_days": 187,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002278.SZ"
+}

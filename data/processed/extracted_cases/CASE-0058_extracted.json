@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0058",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "300587",
+  "stock_name": "天铁股份",
+  "manipulation_start_date": "2018-12-19",
+  "manipulation_end_date": "2019-03-01",
+  "manipulation_duration_days": 72,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "300587.SZ"
+}

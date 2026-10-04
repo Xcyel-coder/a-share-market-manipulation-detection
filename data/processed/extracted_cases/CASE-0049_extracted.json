@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0049",
+  "case_number": "202360.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002858",
+  "stock_name": "力盛运动",
+  "manipulation_start_date": "2020-01-03",
+  "manipulation_end_date": "2020-12-24",
+  "manipulation_duration_days": 356,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002858.SZ"
+}

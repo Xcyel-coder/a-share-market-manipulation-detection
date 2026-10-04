@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0083",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "603036",
+  "stock_name": "如通股份",
+  "manipulation_start_date": "2017-01-03",
+  "manipulation_end_date": "2017-03-14",
+  "manipulation_duration_days": 70,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "603036.SH"
+}

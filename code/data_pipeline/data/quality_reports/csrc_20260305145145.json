@@ -1,0 +1,169 @@
+{
+  "report_id": "csrc_20260305145145",
+  "report_time": "2026-03-05T14:51:45.599533",
+  "data_type": "csrc",
+  "total_records": 54,
+  "valid_records": 54,
+  "invalid_records": 0,
+  "validity_rate": 1.0,
+  "missing_fields": {
+    "doc_id": 0,
+    "title": 0,
+    "content": 0,
+    "publish_date": 0,
+    "url": 0
+  },
+  "completeness_rate": 1.0,
+  "consistency_issues": [],
+  "consistency_rate": 1.0,
+  "outlier_count": 0,
+  "outlier_rate": 0,
+  "issues": [
+    {
+      "file": "CSRC-URL-7603416.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-URL-7604842.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2025-003.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-URL-7584447.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-URL-7564434.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2021-004.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2023-262.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2024-009.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2024-005.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2024-008.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2017-097.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2024-059.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2017-064.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2017-072.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2017-102.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2023-270.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2017-084.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2023-267.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2018-002.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2023-260.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2024-007.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2023-256.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2024-010.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2017-109.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2024-006.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-2017-095.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-URL-7608109.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-URL-7608088.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    },
+    {
+      "file": "CSRC-URL-7608116.json",
+      "issue": "no_keywords",
+      "detail": "未匹配到操纵关键词"
+    }
+  ],
+  "recommendations": []
+}

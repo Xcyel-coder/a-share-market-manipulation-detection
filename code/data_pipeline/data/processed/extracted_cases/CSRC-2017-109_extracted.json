@@ -1,0 +1,31 @@
+{
+  "doc_id": "CSRC-2017-109",
+  "case_number": "2017109号",
+  "defendant_name": "陆茜",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": null,
+  "manipulation_start_date": "2013-05-04",
+  "manipulation_end_date": "2016-06-06",
+  "manipulation_duration_days": 1130,
+  "manipulation_methods": [
+    "借他人名义持有、买卖股票"
+  ],
+  "manipulation_description": "陆茜作为证券从业人员，在从业期间内借用林某勤证券账户持有、买卖股票。",
+  "account_count": 1,
+  "account_group_description": "林某勤证券账户",
+  "involved_amount": 57843369.78,
+  "illegal_profit": -231501.46,
+  "penalty_type": "责令处理非法持有的股票，罚款",
+  "fine_amount": 400000.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042638/content.shtml",
+  "publish_date": "2024-01-29 10:06:48",
+  "extract_time": "2026-03-05T14:39:33.043691",
+  "confidence_score": 0.7142857142857143,
+  "key_paragraphs": [
+    "2013年5月4日至2016年6月6日， 陆茜作为证券从业人员，在从业期间内借 用林某勤证券账户持有、买卖股票的行为，违反了《证券法》第四十三条的 规定，构成了《证券法》第一百九十九条 所述法律、行政法规规定禁止参与股票交易的人员，直接或者以化名、借 他人名义持有 、买卖股票的 行为。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十九条的规定，我会决定： 责令陆茜依法处理非法持有的股票，并处以400000元罚款。"
+  ]
+}

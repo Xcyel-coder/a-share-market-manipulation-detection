@@ -1,0 +1,15 @@
+{
+  "symbol": "DOGEUSDT",
+  "interval": "1m",
+  "start_date": "2020-12-31T16:00:00",
+  "end_date": "2024-11-30T16:00:00",
+  "total_records": 2058128,
+  "files": [
+    "data/raw/crypto/DOGEUSDT/2020.parquet",
+    "data/raw/crypto/DOGEUSDT/2021.parquet",
+    "data/raw/crypto/DOGEUSDT/2022.parquet",
+    "data/raw/crypto/DOGEUSDT/2023.parquet",
+    "data/raw/crypto/DOGEUSDT/2024.parquet"
+  ],
+  "save_time": "2025-12-23T18:37:14.435601"
+}

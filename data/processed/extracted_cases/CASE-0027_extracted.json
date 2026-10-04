@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0027",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002211",
+  "stock_name": "宏达新材",
+  "manipulation_start_date": "2014-05-29",
+  "manipulation_end_date": "2014-12-09",
+  "manipulation_duration_days": 194,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "案件较复杂，时间区间为宣判书给出的范围，但并非这期间每天都有操纵行为",
+  "source": "third_party_excel",
+  "original_stock_code": "002211.SZ"
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "CSRC-2018-022",
+  "case_number": "201822号",
+  "defendant_name": "廖英强",
+  "defendant_type": "个人",
+  "stock_code": "300193",
+  "stock_name": "佳士科技",
+  "manipulation_start_date": "2015-03-01",
+  "manipulation_end_date": "2015-11-30",
+  "manipulation_duration_days": 275,
+  "manipulation_methods": [
+    "利用信息优势操纵"
+  ],
+  "manipulation_description": "廖英强利用其知名证券节目主持人的影响力，在其微博、博客上公开评价、推荐股票，在推荐前使用其控制的账户组买入相关股票，并在荐股后的下午或次日集中卖出。",
+  "account_count": 13,
+  "account_group_description": "包括廖英强本人及张某萍等13个证券账户，与廖英强具有亲属关系或工作关系，资金来源于廖英强或流向廖英强配偶。",
+  "involved_amount": 0.0,
+  "illegal_profit": 43104773.84,
+  "penalty_type": "没收违法所得、罚款",
+  "fine_amount": 86209547.68,
+  "confiscation_amount": 43104773.84,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042622/content.shtml",
+  "publish_date": "2024-01-29 10:07:04",
+  "extract_time": "2026-03-05T13:33:27.390039",
+  "confidence_score": 1,
+  "key_paragraphs": [
+    "经查明， 廖英强利用其知名证券节目主持人的影响力，在其微博、博客上公开评价、推荐股票，在推荐前使用其控制的账户组买入相关股票，并在荐股后的下午或次日集中卖出，具体事实如下 ：",
+    "2015年3月至11月，廖英强利用其知名证券节目主持人 的影响力 ， 发布了含有荐股内容的博客60篇， 平均点击次数为110399次 ， 在其微博、博 客午间解盘栏目 视频中公开评价、推荐 佳士科技 等 39 只股票 共 46次 ，在推荐前使用其控制的账户组买入 相关 股票，并在公开荐股下午开盘后或次日集中卖出 相关股票，违法所得共计 43104773.84元。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度，依据《 证券法 》 第二百零三条 的规定，我会决定： 对廖英强 没收违法所得 43104773.84 元，并处86  209  547.68 元 罚款 。"
+  ]
+}

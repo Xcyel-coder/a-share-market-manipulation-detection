@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0060",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "600165",
+  "stock_name": "新日恒力",
+  "manipulation_start_date": "2017-01-24",
+  "manipulation_end_date": "2017-03-28",
+  "manipulation_duration_days": 63,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "600165.SH"
+}

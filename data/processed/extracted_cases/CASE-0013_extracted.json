@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0013",
+  "case_number": "201569.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "000750",
+  "stock_name": "国海证券",
+  "manipulation_start_date": "2015-06-01",
+  "manipulation_end_date": "2015-07-31",
+  "manipulation_duration_days": 60,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "000750.SZ"
+}

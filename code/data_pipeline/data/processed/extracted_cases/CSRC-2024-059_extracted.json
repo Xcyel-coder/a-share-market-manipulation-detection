@@ -1,0 +1,32 @@
+{
+  "doc_id": "CSRC-2024-059",
+  "case_number": "202459号",
+  "defendant_name": "周文丽",
+  "defendant_type": "个人",
+  "stock_code": "002493",
+  "stock_name": "荣盛石化",
+  "manipulation_start_date": "2023-03-23",
+  "manipulation_end_date": "2023-03-27",
+  "manipulation_duration_days": 5,
+  "manipulation_methods": [
+    "内幕交易"
+  ],
+  "manipulation_description": "周文丽作为内幕信息知情人，在内幕信息敏感期内买入荣盛石化股票，公告后卖出，交易时间与内幕信息的变化公开时间基本一致，且交易金额明显大于同期交易其他股票的金额。",
+  "account_count": 4,
+  "account_group_description": "周文丽及其配偶倪某明的证券账户",
+  "involved_amount": 1268605.6,
+  "illegal_profit": 310096.37,
+  "penalty_type": "没收、罚款",
+  "fine_amount": 1200000.0,
+  "confiscation_amount": 310096.37,
+  "market_ban_years": 0,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101928/c7500886/content.shtml",
+  "publish_date": "2024-08-16 17:18:44",
+  "extract_time": "2026-03-05T13:32:07.063864",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "周文丽与倪 某 明是夫妻关系。周文丽使用周文丽华西证券普通账户、周文丽华西证券信用账户、周文丽国信证券账户、倪 某 明中信证券账户于 2023 年 3 月 23 日至 27 日买入荣盛石化 107100 股买入金额 1268605.6 元公告后卖出 107100 股卖出金额 1580803 元获利 310096.37 元。前述交易使用周文丽尾号 4752 的手机号码下单账户中的资金来源主要为家庭自有资金。",
+    "周文丽作为法定内幕信息知情人于 2023 年 3 月 23 日至 27 日买入荣盛石化公告后全部卖出交易时间与内幕信息的变化公开时间基本一致。内幕信息敏感期内周文丽交易荣盛石化金额明显大于同期交易其他股票的金额。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度依据《证券法》 第一百九十一条第一款 的规定 我会决定  没收 周文丽违法所得 310096.37 元并处 以 12 0 0000 元 罚款。"
+  ]
+}

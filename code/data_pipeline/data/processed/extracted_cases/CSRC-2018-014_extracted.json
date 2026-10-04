@@ -1,0 +1,33 @@
+{
+  "doc_id": "CSRC-2018-014",
+  "case_number": "201814号",
+  "defendant_name": "刘文金",
+  "defendant_type": "个人",
+  "stock_code": "600067",
+  "stock_name": "冠城大通",
+  "manipulation_start_date": "2016-06-03",
+  "manipulation_end_date": "2016-08-04",
+  "manipulation_duration_days": 63,
+  "manipulation_methods": [
+    "集中资金优势",
+    "大额封涨停"
+  ],
+  "manipulation_description": "刘文金实际控制账户组，集中资金优势，通过大额封涨停的操纵手法交易冠城大通等6只股票，影响股票交易价格和交易量，并于次日卖出。",
+  "account_count": 4,
+  "account_group_description": "长安基金光大银行刘文金、江信基金光大银行莫某钦、江信基金光大银行曾某静和胡某等4个证券账户组成。",
+  "involved_amount": 0.0,
+  "illegal_profit": 7722056.61,
+  "penalty_type": "没收, 罚款",
+  "fine_amount": 23166169.83,
+  "confiscation_amount": 7722056.61,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042623/content.shtml",
+  "publish_date": "2024-01-29 10:06:35",
+  "extract_time": "2026-03-05T13:33:20.524725",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "2016年6月3日至8月4日期间，刘文金实际控制账户组，集中资金优势，通过大额封涨停的操纵手法交易冠城大通等6只股票，影响股票交易价格和交易量，并于次日卖出，共计获利7722056.61元。上述6起行为中，截至当日收盘，账户组收盘涨停价位有效委托占比均超过80，当日买入量占市场买入量均超过30。",
+    "我会认为， 刘文金的上述行为违反了《中华人民共和国证券法》第七十七条第一款第（一）项、第（四）项的规定，构成《证券法》第二百零三条所述操纵市场行为。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第二百零三条的规定， 我会决定： 没收刘文金违法所得7722056.61元，并处以23166169.83元罚款。"
+  ]
+}

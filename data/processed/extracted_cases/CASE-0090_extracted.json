@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0090",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "603309",
+  "stock_name": "维力医疗",
+  "manipulation_start_date": "2015-12-03",
+  "manipulation_end_date": "2016-04-29",
+  "manipulation_duration_days": 148,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "603309.SH"
+}

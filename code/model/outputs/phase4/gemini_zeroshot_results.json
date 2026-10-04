@@ -1,0 +1,222 @@
+{
+  "metrics": {
+    "accuracy": 0.7391304347826086,
+    "precision": 1.0,
+    "recall": 0.7391304347826086,
+    "f1": 0.85,
+    "mcc": 0.0,
+    "n_positive": 23,
+    "n_negative": 0,
+    "n_total": 23,
+    "roc_auc": 0.5
+  },
+  "details": [
+    {
+      "doc_id": "CSRC-2017-064",
+      "stock_code": "600110",
+      "stock_name": "中科英华",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.85,
+      "reason": "分析期间股价和成交量异常放大，与前期平稳状态形成鲜明对比，存在操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2017-077",
+      "stock_code": "600359",
+      "stock_name": "新农开发",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间成交量显著放大，涨跌幅和波动率均高于前期，存在操纵股价嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2017-098",
+      "stock_code": "000591",
+      "stock_name": "桐君阁",
+      "true_label": 1,
+      "pred_label": 0,
+      "confidence": 0.6,
+      "reason": "虽然成交量放大，但负收益和波动率与前期相似，且涨跌幅为负，难以断定为操纵。"
+    },
+    {
+      "doc_id": "CSRC-2018-002",
+      "stock_code": "600195",
+      "stock_name": "中牧股份",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.8,
+      "reason": "前期大幅拉升后，分析期间大幅下跌，且成交量放大，收益率波动率显著增加，存在高位出货嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2018-012",
+      "stock_code": "002163",
+      "stock_name": "ST三鑫",
+      "true_label": 1,
+      "pred_label": 0,
+      "confidence": 0.65,
+      "reason": "虽然成交量放大，但涨跌幅和波动率与前期对照差异不大，且最大单日涨幅和跌幅均未异常，难以断定存在操纵。"
+    },
+    {
+      "doc_id": "CSRC-2018-014",
+      "stock_code": "600067",
+      "stock_name": "冠城大通",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间成交量显著放大，波动率上升，且涨幅明显高于前期，存在操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2018-022",
+      "stock_code": "300193",
+      "stock_name": "佳士科技",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.85,
+      "reason": "分析期间的涨跌幅、波动率和成交量比率显著高于前期，存在操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2021-124",
+      "stock_code": "603389",
+      "stock_name": "亚振家居",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间成交量异常放大，波动率显著高于前期，存在操纵股价嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2022-064",
+      "stock_code": "601518",
+      "stock_name": "吉林高速",
+      "true_label": 1,
+      "pred_label": 0,
+      "confidence": 0.65,
+      "reason": "虽然最大成交量比率较高，但整体涨跌幅和收益率波动率相对正常，且最大单日涨幅和跌幅都在可接受范围内，缺乏明显的拉抬或打压迹象。"
+    },
+    {
+      "doc_id": "CSRC-2023-005",
+      "stock_code": "002780",
+      "stock_name": "三夫户外",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间成交量显著放大，涨幅明显，与前期对照差异较大，存在操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2023-060",
+      "stock_code": "002858",
+      "stock_name": "力盛赛车",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间成交量异常放大，波动率显著高于前期，且伴随股价下跌，存在诱多出货嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2023-077",
+      "stock_code": "002358",
+      "stock_name": "森源电气",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间出现异常高的成交量比率，且收益率波动率显著高于前期，存在操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2023-083",
+      "stock_code": "300400",
+      "stock_name": "劲拓股份",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间涨跌幅显著高于前期，且收益率波动率和成交量比率均明显放大，存在操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2024-008",
+      "stock_code": "300038",
+      "stock_name": "数知科技",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间股价大幅下跌，成交量异常放大，且波动率较前期有所下降，存在打压股价出货的操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2024-023",
+      "stock_code": "002730",
+      "stock_name": "电光科技",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间成交量显著放大，且前期股价下跌，存在拉高出货的操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2024-058",
+      "stock_code": "000587",
+      "stock_name": "ST 金洲",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "虽然期间涨跌幅为负，但成交量显著放大，且波动率降低，可能存在压低股价后吸筹的操纵行为。"
+    },
+    {
+      "doc_id": "CSRC-2024-059",
+      "stock_code": "002493",
+      "stock_name": "荣盛石化",
+      "true_label": 1,
+      "pred_label": 0,
+      "confidence": 0.65,
+      "reason": "虽然成交量放大，但期间整体下跌，且波动率上升幅度有限，难以断定为操纵。"
+    },
+    {
+      "doc_id": "CSRC-2024-082",
+      "stock_code": "002808",
+      "stock_name": "恒久科技",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间股价由跌转涨，成交量放大，但涨幅并不显著，可能存在拉抬出货的操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-2025-003",
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "true_label": 1,
+      "pred_label": 0,
+      "confidence": 0.65,
+      "reason": "虽然成交量放大明显，但股价下跌且波动率变化不大，更像是市场正常调整而非刻意操纵。"
+    },
+    {
+      "doc_id": "CSRC-URL-7532746",
+      "stock_code": "300503",
+      "stock_name": "昊志机电",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.85,
+      "reason": "分析期间股价大幅下跌伴随成交量异常放大，与前期平稳状态形成鲜明对比，存在操纵嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-URL-7532795",
+      "stock_code": "300651",
+      "stock_name": "金陵体育",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.75,
+      "reason": "分析期间成交量显著放大，且涨幅与前期对照期间相似，但波动率显著降低，存在人为控制价格的嫌疑。"
+    },
+    {
+      "doc_id": "CSRC-URL-7564434",
+      "stock_code": "603985",
+      "stock_name": "恒润股份",
+      "true_label": 1,
+      "pred_label": 0,
+      "confidence": 0.65,
+      "reason": "虽然期间跌幅较大且波动率较高，但最大成交量比率与前期对照相似，缺乏明显异常放量配合价格操纵的证据。"
+    },
+    {
+      "doc_id": "CSRC-URL-7610753",
+      "stock_code": "300622",
+      "stock_name": "博士眼镜",
+      "true_label": 1,
+      "pred_label": 1,
+      "confidence": 0.9,
+      "reason": "分析期间涨跌幅巨大，成交量异常放大，与前期对照差异显著，存在操纵嫌疑。"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "CSRC-2024-006",
+  "case_number": "20246号",
+  "defendant_name": "钱仁勇、龙俊、石成华",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": "美尚生态",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "美尚生态信息披露违法违规、欺诈发行",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 0.0,
+  "illegal_profit": 0.0,
+  "penalty_type": "市场禁入",
+  "fine_amount": 0.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 3,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101927/c7474973/content.shtml",
+  "publish_date": "2024-04-19 17:49:07",
+  "extract_time": "2026-03-05T13:33:57.433895",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "经查明美尚生态存在以下违法事实 一、美尚生态 2015 年公司招股说明书、 2015 年至 2019 年年报、 2020 年半年报、 2016 年非公开发行股份及支付现金购买资产并募集配套资金暨关联交易报告书、 2017 年面向合格投资者公开发行公司债券募集说明书等信息披露文件存在虚假记载",
+    "钱仁勇作为美尚生态时任财务经理、财务总监知悉并参与美尚生态与关联方资金往来、提前确认应收账款收回事项知悉或应当知悉虚记银行利息收入、未按审定金额调整项目收入事项 对虚增子公司收入事项未勤勉尽责 违法情节严重。龙俊作为金点园林时任董事长石成华作为金点园林时任总经理金点园林虚增收入、利润的行为直接导致美尚生态相关披露文件存在虚假记载违法情节严重。依据 2005 年《证券法》第二百三十三条及《证券市场禁入规定》证监会令第 115 号第三条第一项及第七项、第五条的规定我会决定对钱仁勇、龙俊、石成华采取 3 年证券市场禁入措施。"
+  ]
+}

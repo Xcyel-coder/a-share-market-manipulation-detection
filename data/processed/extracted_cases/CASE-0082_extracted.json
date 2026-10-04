@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0082",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "601518",
+  "stock_name": "吉林高速",
+  "manipulation_start_date": "2020-02-03",
+  "manipulation_end_date": "2022-03-11",
+  "manipulation_duration_days": 767,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "存在两轮操纵",
+  "source": "third_party_excel",
+  "original_stock_code": "601518.SH"
+}

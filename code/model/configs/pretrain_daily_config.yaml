@@ -1,0 +1,104 @@
+# =============================================================
+# Scale-Aligned Pre-training: Daily + 4H Crypto
+# Runs ON TOP of existing minute-level pretrain checkpoint.
+# Uses the SAME 25-feature pipeline as A-stock fine-tuning.
+# =============================================================
+
+data:
+  aggregated_dir: "/root/project/data/processed/crypto_aggregated"
+  symbols:
+    - "BTCUSDT"
+    - "ETHUSDT"
+    - "DOGEUSDT"
+    - "SHIBUSDT"
+    - "PEPEUSDT"
+    - "FLOKIUSDT"
+
+  seq_len: 60               # match A-stock fine-tune window
+  stride: 10
+  val_ratio: 0.1
+
+  # Feature params for compute_daily_features (same as A-stock)
+  feature_params:
+    returns_horizons: [1, 5, 10, 20, 60]
+    volume_ma_window: 20
+    rsi_period: 14
+    bb_period: 20
+    atr_period: 14
+
+  # Anomaly detection for daily-scale (adapted thresholds)
+  anomaly:
+    price_surge_threshold: 0.05   # 5% daily (vs 2% minute)
+    volume_multiplier: 2.0
+    surge_window: 3               # 3-day window
+    min_gap: 5                    # 5-day gap
+    volume_ma_window: 20
+
+# --- Model (must match original pretrain) ---
+model:
+  d_model: 256
+  n_heads: 8
+  n_layers: 6
+  d_ff: 512
+  dropout: 0.1
+  moe:
+    num_routed_experts: 8
+    num_shared_experts: 2
+    top_k: 2
+    router_jitter: 0.1
+    load_balance_weight: 0.01
+  max_seq_len: 512
+
+# --- Pre-training Objectives ---
+pretrain:
+  mae:
+    mask_ratio: 0.25
+    block_mask: true
+    min_block_len: 2            # shorter blocks for daily data
+    max_block_len: 8
+  anomaly_pred:
+    lookahead_window: 5         # 5-day lookahead
+  contrastive:
+    temperature: 0.07
+  loss_weights:
+    mae: 0.4
+    anomaly: 0.3
+    contrastive: 0.3
+
+# --- Training: Two alignment rounds ---
+training:
+  rounds:
+    # Round 1: 4H data (more volume, medium alignment)
+    - name: "align_4h"
+      timeframe: "4h"
+      data_fraction: 1.0
+      epochs: 20
+      lr: 5.0e-5              # low LR to preserve pretrain knowledge
+      batch_size: 128
+      warmup_ratio: 0.05
+
+    # Round 2: Daily data (full alignment with A-stock features)
+    - name: "align_daily"
+      timeframe: "daily"
+      data_fraction: 1.0
+      epochs: 30
+      lr: 3.0e-5              # even lower LR for final alignment
+      batch_size: 64
+      warmup_ratio: 0.1
+
+  weight_decay: 0.01
+  max_grad_norm: 1.0
+  scheduler: "cosine"
+  fp16: true
+  seed: 42
+  save_every_n_epochs: 5
+  eval_every_n_steps: 100
+  log_every_n_steps: 20
+
+# --- Resume from minute-level pretrain ---
+resume_from: "/root/project/outputs/pretrain/round3_full/best.pt"
+
+# --- Output ---
+output:
+  dir: "/root/project/outputs/pretrain_daily"
+  wandb_enabled: false

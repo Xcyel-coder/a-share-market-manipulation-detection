@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0039",
+  "case_number": "202159.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002679",
+  "stock_name": "福建金森",
+  "manipulation_start_date": "2018-08-01",
+  "manipulation_end_date": "2019-06-13",
+  "manipulation_duration_days": 316,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002679.SZ"
+}

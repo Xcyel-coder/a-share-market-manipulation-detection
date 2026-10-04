@@ -1,0 +1,99 @@
+cot_distill:
+  embedding_dim: 384
+  embedding_model: paraphrase-multilingual-MiniLM-L12-v2
+  projection_dim: 128
+  temperature: 0.1
+data:
+  astock_dir: c:\Users\wangm\OneDrive - Audencia\毕业论文\code\data_pipeline\data\raw\astock
+  cases_dir: c:\Users\wangm\OneDrive - Audencia\毕业论文\code\data_pipeline\data\processed\extracted_cases
+  cot_results: c:\Users\wangm\OneDrive - Audencia\毕业论文\code\model\outputs\cot\cot_results.json
+  cv_folds: 5
+  features:
+    atr_period: 14
+    bb_period: 20
+    returns_horizons:
+    - 1
+    - 5
+    - 10
+    - 20
+    - 60
+    rsi_period: 14
+    volume_ma_window: 20
+  manipulation_overlap_ratio: 0.5
+  min_window_bars: 30
+  seq_len: 60
+  stride: 5
+levels:
+  L0:
+    custom_router: false
+    description: Pre-trained MoE + classification head only
+    expert_freeze: false
+    freeze_encoder: false
+    loss_weights:
+      classification: 1.0
+      cot_distill: 0.0
+    name: baseline_finetune
+  L1:
+    custom_router: false
+    description: Classification + CoT embedding alignment
+    expert_freeze: false
+    freeze_encoder: false
+    loss_weights:
+      classification: 0.7
+      cot_distill: 0.3
+    name: cot_distillation
+  L2:
+    custom_router: true
+    description: Metadata-aware routing + CoT distillation
+    expert_freeze: false
+    freeze_encoder: true
+    loss_weights:
+      classification: 0.7
+      cot_distill: 0.3
+    metadata_dim: 8
+    name: custom_routing
+  L3:
+    custom_router: true
+    description: Custom routing + selective expert freezing
+    expert_freeze: true
+    freeze_encoder: false
+    freeze_top_n_experts: 4
+    loss_weights:
+      classification: 0.7
+      cot_distill: 0.3
+    metadata_dim: 8
+    name: expert_freeze
+model:
+  d_ff: 512
+  d_model: 256
+  dropout: 0.1
+  max_seq_len: 512
+  moe:
+    load_balance_weight: 0.001
+    num_routed_experts: 8
+    num_shared_experts: 2
+    router_jitter: 0.0
+    top_k: 2
+  n_heads: 8
+  n_layers: 6
+output:
+  dir: c:\Users\wangm\OneDrive - Audencia\毕业论文\code\model\outputs\finetune
+pretrained:
+  checkpoint: outputs/pretrain/round3_full/best.pt
+  load_encoder_only: true
+training:
+  batch_size: 32
+  early_stopping:
+    min_delta: 0.001
+    patience: 10
+  epochs: 50
+  focal_loss:
+    alpha: 0.75
+    gamma: 2.0
+  fp16: false
+  lr: 0.0001
+  max_grad_norm: 1.0
+  oversample_minority: true
+  seed: 42
+  warmup_ratio: 0.1
+  weight_decay: 0.01

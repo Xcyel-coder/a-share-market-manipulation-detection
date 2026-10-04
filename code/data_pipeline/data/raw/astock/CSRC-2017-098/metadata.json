@@ -1,0 +1,10 @@
+{
+  "case_id": "CSRC-2017-098",
+  "save_time": "2026-03-05T14:49:57.978290",
+  "data_types": [
+    "daily"
+  ],
+  "files": [
+    "data/raw/astock/CSRC-2017-098/daily.parquet"
+  ]
+}

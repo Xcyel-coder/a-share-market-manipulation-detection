@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0066",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "600328",
+  "stock_name": "兰太实业",
+  "manipulation_start_date": "2015-11-06",
+  "manipulation_end_date": "2016-04-19",
+  "manipulation_duration_days": 165,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "600328.SH"
+}

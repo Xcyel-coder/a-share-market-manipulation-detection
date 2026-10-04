@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0098",
+  "case_number": "202352.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "603726",
+  "stock_name": "朗迪集团",
+  "manipulation_start_date": "2019-11-04",
+  "manipulation_end_date": "2020-04-07",
+  "manipulation_duration_days": 155,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "603726.SH"
+}

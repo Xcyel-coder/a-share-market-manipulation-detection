@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0022",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002072",
+  "stock_name": "凯瑞德",
+  "manipulation_start_date": "2016-01-27",
+  "manipulation_end_date": "2016-12-06",
+  "manipulation_duration_days": 314,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002072.SZ"
+}

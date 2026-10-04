@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0014",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "000809",
+  "stock_name": "铁岭新城",
+  "manipulation_start_date": "2013-09-09",
+  "manipulation_end_date": "2013-12-26",
+  "manipulation_duration_days": 108,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "000809.SZ"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0029",
+  "case_number": "202377.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002358",
+  "stock_name": "森源电气",
+  "manipulation_start_date": "2018-03-07",
+  "manipulation_end_date": "2019-02-27",
+  "manipulation_duration_days": 357,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "操纵行为分成三个阶段，开始日期与结束日期分别为操作行为最早开始时间和最晚结束时间",
+  "source": "third_party_excel",
+  "original_stock_code": "002358.SZ"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0035",
+  "case_number": "201561.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002552",
+  "stock_name": "宝鼎重工",
+  "manipulation_start_date": "2012-10-31",
+  "manipulation_end_date": "2013-07-08",
+  "manipulation_duration_days": 250,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002552.SZ"
+}

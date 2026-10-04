@@ -1,0 +1,33 @@
+{
+  "doc_id": "CSRC-2023-005",
+  "case_number": "20235号",
+  "defendant_name": "易伟",
+  "defendant_type": "个人",
+  "stock_code": "002780",
+  "stock_name": "三夫户外",
+  "manipulation_start_date": "2018-11-01",
+  "manipulation_end_date": "2020-06-19",
+  "manipulation_duration_days": 597,
+  "manipulation_methods": [
+    "连续交易",
+    "对倒交易"
+  ],
+  "manipulation_description": "易伟利用资金优势、持股优势连续买卖，在自己实际控制的账户之间进行交易等形式操纵三夫户外股票价格。",
+  "account_count": 76,
+  "account_group_description": "直接控制账户、受托管理账户、借入配资账户",
+  "involved_amount": 3692779354.47,
+  "illegal_profit": 27970620.32,
+  "penalty_type": "没收、罚款",
+  "fine_amount": 27970620.32,
+  "confiscation_amount": 51912795.65,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c7183832/content.shtml",
+  "publish_date": "2024-01-29 10:08:07",
+  "extract_time": "2026-03-05T14:38:25.713866",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "根据资金关联、交易硬件关联、询问笔录等证据足以认定2018年11月1日至2020年6月19日以下简称操纵期间易伟以直接控制账户、受托管理账户、借入配资账户等形式实际控制76个证券账户以下简称账户组用于交易三夫户外。",
+    "操纵期间易伟利用资金优势、持股优势连续买卖在自己实际控制的账户之间进行交易等形式操纵三夫户外股票价格。截至目前余股已全部卖出账户组共计盈利27970620.32元。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度我会决定 一、依据《证券法》第一百九十二条没收易伟操纵三夫户外违法所得27970620.32元并处以27970620.32元罚款 二、依据《暂行办法》第三十二条没收易伟非法从事证券投资咨询违法所得23942175.33元并处以2000万元罚款。"
+  ]
+}

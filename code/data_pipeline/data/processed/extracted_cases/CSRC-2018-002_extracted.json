@@ -1,0 +1,32 @@
+{
+  "doc_id": "CSRC-2018-002",
+  "case_number": "20182号",
+  "defendant_name": "徐晗坤",
+  "defendant_type": "个人",
+  "stock_code": "600195",
+  "stock_name": "中牧股份",
+  "manipulation_start_date": "2015-06-11",
+  "manipulation_end_date": "2015-07-06",
+  "manipulation_duration_days": 26,
+  "manipulation_methods": [
+    "内幕交易"
+  ],
+  "manipulation_description": "徐晗坤在内幕信息敏感期内，利用本人证券账户买入中牧股份，构成内幕交易行为。",
+  "account_count": 1,
+  "account_group_description": "徐晗坤本人证券账户",
+  "involved_amount": 3924824.0,
+  "illegal_profit": -1769108.0,
+  "penalty_type": "罚款",
+  "fine_amount": 600000.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042632/content.shtml",
+  "publish_date": "2024-01-29 10:06:43",
+  "extract_time": "2026-03-05T13:33:12.618895",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "徐晗坤因履行工作职责全程参与中牧股份收购广西扬翔饲料板块业务部分股权事宜，知悉内幕信息的形成背景、具体内容及进展。",
+    "徐晗坤证券账户于2015年6月11日买入中牧股份93700股，买入金额3466304元；2015年6月15日买入12000股，买入金额458520元；2015年7月6日全部卖出，合计卖出105700股，卖出金额2155716元，亏损1769108元。",
+    "徐晗坤的上述行为违反了《证券法》第七十三条、第七十六条第一款的规定，构成《证券法》第二百零二条所述内幕交易行为。"
+  ]
+}

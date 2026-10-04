@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0010",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "000702",
+  "stock_name": "正虹科技",
+  "manipulation_start_date": "2015-06-25",
+  "manipulation_end_date": "2016-07-11",
+  "manipulation_duration_days": 382,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "000702.SZ"
+}

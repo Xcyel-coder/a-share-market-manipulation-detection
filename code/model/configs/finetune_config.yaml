@@ -1,0 +1,125 @@
+# =============================================================
+# Phase 3: A-Share Fine-tuning Configuration
+# Strategy: 4-level progressive validation (L0→L3)
+# Data: A-share daily OHLCV from manipulation cases
+# =============================================================
+
+# --- Data ---
+data:
+  cases_dir: "data/processed/extracted_cases"
+  astock_dir: "data/raw/astock"
+  cot_results: "outputs/cot/cot_results.json"
+
+  seq_len: 60                  # 60 trading days window
+  stride: 5                   # 5-day stride
+  min_window_bars: 30         # minimum usable bars per window
+  manipulation_overlap_ratio: 0.5  # window labeled positive if ≥50% overlaps manipulation period
+
+  features:
+    returns_horizons: [1, 5, 10, 20, 60]
+    volume_ma_window: 20       # 20 trading days
+    rsi_period: 14
+    bb_period: 20
+    atr_period: 14
+
+  cv_folds: 5                 # leave-cases-out cross-validation
+
+# --- Model (must match pretrain_config) ---
+model:
+  d_model: 256
+  n_heads: 8
+  n_layers: 6
+  d_ff: 512
+  dropout: 0.1
+  max_seq_len: 512
+
+  moe:
+    num_routed_experts: 8
+    num_shared_experts: 2
+    top_k: 2
+    router_jitter: 0.0        # no jitter during fine-tuning
+    load_balance_weight: 0.001 # reduced for fine-tuning
+
+# --- Fine-tuning Levels ---
+levels:
+  L0:
+    name: "baseline_finetune"
+    description: "Pre-trained MoE + classification head only"
+    loss_weights:
+      classification: 1.0
+      cot_distill: 0.0
+    freeze_encoder: false
+    custom_router: false
+    expert_freeze: false
+
+  L1:
+    name: "cot_distillation"
+    description: "Classification + CoT embedding alignment"
+    loss_weights:
+      classification: 0.7
+      cot_distill: 0.3
+    freeze_encoder: false
+    custom_router: false
+    expert_freeze: false
+
+  L2:
+    name: "custom_routing"
+    description: "Metadata-aware routing + CoT distillation"
+    loss_weights:
+      classification: 0.7
+      cot_distill: 0.3
+    freeze_encoder: true       # freeze backbone, train router + heads
+    custom_router: true
+    expert_freeze: false
+    metadata_dim: 8            # exchange_onehot(3) + limit_flag(1) + volatility(1) + trend(1) + vol_ratio(1) + turnover(1)
+
+  L3:
+    name: "expert_freeze"
+    description: "Custom routing + selective expert freezing"
+    loss_weights:
+      classification: 0.7
+      cot_distill: 0.3
+    freeze_encoder: false
+    custom_router: true
+    expert_freeze: true
+    freeze_top_n_experts: 4    # freeze the 4 most activated experts from pre-training
+    metadata_dim: 8
+
+# --- Training ---
+training:
+  epochs: 50
+  lr: 1.0e-4
+  batch_size: 32
+  warmup_ratio: 0.1
+  weight_decay: 0.01
+  max_grad_norm: 1.0
+  fp16: false                  # daily data is small, no need for fp16
+  seed: 42
+
+  # Focal loss for class imbalance
+  focal_loss:
+    gamma: 2.0
+    alpha: 0.25                # weight for positive class (low because positive is majority 95.8%)
+
+  early_stopping:
+    patience: 10
+    min_delta: 0.001
+
+  # Oversampling to handle imbalance
+  oversample_minority: true     # oversample whichever class is minority
+
+# --- CoT Distillation ---
+cot_distill:
+  embedding_model: "paraphrase-multilingual-MiniLM-L12-v2"
+  embedding_dim: 384
+  projection_dim: 128          # project CLS → 128-dim for alignment
+  temperature: 0.1
+
+# --- Pretrained Weights ---
+pretrained:
+  checkpoint: "outputs/pretrain/round3_full/best.pt"
+  load_encoder_only: true
+
+# --- Output ---
+output:
+  dir: "outputs/finetune"

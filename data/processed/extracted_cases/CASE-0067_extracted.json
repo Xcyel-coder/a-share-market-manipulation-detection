@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0067",
+  "case_number": "201243.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "600343",
+  "stock_name": "航天动力",
+  "manipulation_start_date": "2010-04-02",
+  "manipulation_end_date": "2010-07-28",
+  "manipulation_duration_days": 117,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "600343.SH"
+}

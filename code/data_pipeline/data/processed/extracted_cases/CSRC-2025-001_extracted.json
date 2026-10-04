@@ -1,0 +1,31 @@
+{
+  "doc_id": "CSRC-2025-001",
+  "case_number": "20251号",
+  "defendant_name": "徐阳",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": null,
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [
+    "虚假申报"
+  ],
+  "manipulation_description": "徐阳控制使用多个证券账户，以虚假申报手段操纵多只股票。",
+  "account_count": 0,
+  "account_group_description": "多个证券账户",
+  "involved_amount": 0.0,
+  "illegal_profit": 98972869.06,
+  "penalty_type": "警告/没收/罚款",
+  "fine_amount": 296918607.18,
+  "confiscation_amount": 98972869.06,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/tianjin/c103608/c7548029/content.shtml",
+  "publish_date": "2025-03-31 10:54:04",
+  "extract_time": "2026-03-05T13:30:47.252996",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "经查明， 徐阳存在以下违法事实 ： 涉案期间 ， 徐阳 控制使用 多 个 证券 账户 ，以虚假申报手段 操纵 多 只股票 ， 合计获利 98972869.06 元。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度，依据 《证券法》 第 一百九十二 条的规定，我局决定： 对 徐阳 给予警告， 没收违法所得 98972869.06 元， 并处以 296918607.18 元 的罚款。"
+  ]
+}

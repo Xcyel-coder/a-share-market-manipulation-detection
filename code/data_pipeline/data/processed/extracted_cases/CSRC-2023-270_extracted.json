@@ -1,0 +1,30 @@
+{
+  "doc_id": "CSRC-2023-270",
+  "case_number": "2023270号",
+  "defendant_name": "赵传仁",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": "冠鲁集团",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "申请人认为冠鲁集团的股票回收价格不合理，因为冠鲁集团发展壮大了、资产增多了，自己购买的股票却亏本了。",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 0.0,
+  "illegal_profit": 0.0,
+  "penalty_type": null,
+  "fine_amount": 0.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 0,
+  "source_url": "http://www.csrc.gov.cn/csrc/c105938/ca4a8805d5fa0444cbbcdc4774199de07/content.shtml",
+  "publish_date": "2024-08-28 17:33:06",
+  "extract_time": "2026-03-05T13:32:44.435229",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "申请人不服被申请人对申请人举报事项作出的答复，向中国证券监督管理委员会（以下简称本会或证监会）申请行政复议。本会受理后，依法进行审查，现已审查终结。",
+    "申请人花费近九万元分批购买山东省平邑县冠鲁集团（以下简称冠鲁集团）的股票，后经冠鲁集团分红和赠送配股，申请人持有冠鲁集团股票35000余股。冠鲁集团承诺股票上市，持股者可享受上市红利，若股票未能上市，可与冠鲁集团同时扩大股权，并参与分红和配股。申请人现要求冠鲁集团回收其股票，经协商，冠鲁集团同意以一元一股回收其股票。申请人认为，冠鲁集团的股票回收价格不合理，因为冠鲁集团发展壮大了、资产增多了，自己购买的股票却亏本了。",
+    "综上，根据《行政复议法实施条例》第四十八条第一款第（一）项的规定，本会决定：驳回申请人的行政复议申请。"
+  ]
+}

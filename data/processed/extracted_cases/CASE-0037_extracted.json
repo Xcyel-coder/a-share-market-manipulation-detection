@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0037",
+  "case_number": "201877.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002606",
+  "stock_name": "大连电瓷",
+  "manipulation_start_date": "2016-06-28",
+  "manipulation_end_date": "2017-03-02",
+  "manipulation_duration_days": 247,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002606.SZ"
+}

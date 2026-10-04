@@ -1,0 +1,32 @@
+{
+  "doc_id": "CSRC-2018-012",
+  "case_number": "201812号",
+  "defendant_name": "孟祥龙",
+  "defendant_type": "个人",
+  "stock_code": "002163",
+  "stock_name": "ST三鑫",
+  "manipulation_start_date": "2015-03-06",
+  "manipulation_end_date": "2015-03-12",
+  "manipulation_duration_days": 7,
+  "manipulation_methods": [
+    "尾市拉抬"
+  ],
+  "manipulation_description": "孟祥龙通过其实际控制的账户组，在开盘集合竞价阶段、尾市阶段利用资金优势申报买入影响ST三鑫价格，并于当日或次日反向卖出。",
+  "account_count": 0,
+  "account_group_description": "李 某 燕和陈 某 阳账户",
+  "involved_amount": 0.0,
+  "illegal_profit": 16212888.46,
+  "penalty_type": "没收、罚款",
+  "fine_amount": 32425776.92,
+  "confiscation_amount": 16212888.46,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042624/content.shtml",
+  "publish_date": "2024-01-29 10:06:49",
+  "extract_time": "2026-03-05T14:38:47.111049",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "2015年3月6日至12日（以下简称操纵期间）通过其实际控制的李 某 燕和陈 某 阳账户（以下简称账户组），操纵ST三鑫价格，具体 情况 如下：",
+    "综上，操纵期间，孟祥龙通过其实际控制的账户组，在开盘集合竞价阶段、尾市阶段 利用资金优势申报买入 影响ST三鑫价格，并于当日或次日反向卖出， 共计卖出 2792.68万股， 非法获利共计1 6 2 1 2 888 . 4 6元。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度， 依据《证券法》 第二百零三条的规定 ，我会决定： 没收孟祥龙违法所得 1 6 2 1 2 888 . 4 6元 ，并处 以 32425776.92 元罚款 。"
+  ]
+}

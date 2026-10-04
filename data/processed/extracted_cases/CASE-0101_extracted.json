@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0101",
+  "case_number": "202069.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "603843",
+  "stock_name": "正平股份",
+  "manipulation_start_date": "2017-09-25",
+  "manipulation_end_date": "2018-02-06",
+  "manipulation_duration_days": 134,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "603843.SH"
+}

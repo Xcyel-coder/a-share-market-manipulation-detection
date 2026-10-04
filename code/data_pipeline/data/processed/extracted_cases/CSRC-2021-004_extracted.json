@@ -1,0 +1,32 @@
+{
+  "doc_id": "CSRC-2021-004",
+  "case_number": "行政处罚决定书20214号",
+  "defendant_name": "蒋卫强",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": null,
+  "manipulation_start_date": "2017-05-17",
+  "manipulation_end_date": "2021-04-22",
+  "manipulation_duration_days": 1437,
+  "manipulation_methods": [
+    "利用未公开信息交易"
+  ],
+  "manipulation_description": "蒋卫强担任大成基金信息技术部总监期间，利用职务便利，知悉大成基金管理的组合账户投资交易未公开信息，并使用郭某珍证券账户与大成基金受托管理的3个组合账户趋同交易股票。",
+  "account_count": 1,
+  "account_group_description": "郭某珍证券账户由蒋卫强控制，资金均为蒋卫强所有。",
+  "involved_amount": 668561600.0,
+  "illegal_profit": 5752934.33,
+  "penalty_type": "没收、罚款",
+  "fine_amount": 17258802.99,
+  "confiscation_amount": 5752934.33,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/guangxi/c104662/c1664579/content.shtml",
+  "publish_date": "2025-10-15 23:16:44",
+  "extract_time": "2026-03-05T14:37:23.226941",
+  "confidence_score": 0.7142857142857143,
+  "key_paragraphs": [
+    "2017年5月17日至2021年4月22日期间蒋卫强担任大成基金信息技术部总监职务拥有大成基金恒生系统核心数据库账户权限。任职期间蒋卫强利用该账户权限使用办公台式电脑提取查看大成基金所管理的3个组合账户的历史和实时交易数据知悉该未公开信息。",
+    "2017年5月17日至2021年4月22日期间蒋卫强利用知悉的未公开信息操作郭某珍证券账户与大成基金受托管理的上述3个组合账户趋同交易股票。上述期间郭某珍证券账户趋同交易股票245只趋同交易成交金额66856.16万元趋同交易盈利5752934.33元。",
+    "根据违法行为的事实、性质、情节与社会危害程度依据《证券投资基金法》第一百二十三条第一款的规定我局决定 对蒋卫强责令改正没收违法所得5752934.33元并处以17258802.99元罚款。"
+  ]
+}

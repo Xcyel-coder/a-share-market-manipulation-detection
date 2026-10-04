@@ -1,0 +1,19 @@
+{
+  "report_id": "crypto_20260305145146",
+  "report_time": "2026-03-05T14:51:46.168710",
+  "data_type": "crypto",
+  "total_records": 9701977,
+  "valid_records": 9701977,
+  "invalid_records": 0,
+  "validity_rate": 1.0,
+  "missing_fields": {},
+  "completeness_rate": 1.0,
+  "consistency_issues": [],
+  "consistency_rate": 1.0,
+  "outlier_count": 61833,
+  "outlier_rate": 0.0031866185623816673,
+  "issues": [],
+  "recommendations": [
+    "发现61833个异常值点，建议进行异常值处理"
+  ]
+}

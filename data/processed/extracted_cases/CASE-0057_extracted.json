@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0057",
+  "case_number": "202327.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "300509",
+  "stock_name": "新美星",
+  "manipulation_start_date": "2018-09-26",
+  "manipulation_end_date": "2019-06-26",
+  "manipulation_duration_days": 273,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "300509.SZ"
+}

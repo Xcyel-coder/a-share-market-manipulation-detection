@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0006",
+  "case_number": "202354.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "000673",
+  "stock_name": "当代东方",
+  "manipulation_start_date": "2017-08-23",
+  "manipulation_end_date": "2018-08-15",
+  "manipulation_duration_days": 357,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "000673.SZ"
+}

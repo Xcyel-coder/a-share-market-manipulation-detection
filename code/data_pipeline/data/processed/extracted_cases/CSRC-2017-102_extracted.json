@@ -1,0 +1,29 @@
+{
+  "doc_id": "CSRC-2017-102",
+  "case_number": "2017102号",
+  "defendant_name": "江苏雅百特科技股份有限公司",
+  "defendant_type": "机构",
+  "stock_code": "None",
+  "stock_name": "雅百特",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "2015年至2016年9月，雅百特虚增营业收入 58312.41万元，虚增利润25650.11万元。通过虚构海外工程项目、建材出口贸易和国内建材贸易的方式虚增收入和利润。",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 583124100.0,
+  "illegal_profit": 256501100.0,
+  "penalty_type": "警告、罚款",
+  "fine_amount": 600000.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042644/content.shtml",
+  "publish_date": "2024-01-29 10:07:10",
+  "extract_time": "2026-03-05T13:32:41.030095",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "综上所述，2015年至2016年9月，雅百特共虚增营业收入 58312.41万元，虚增利润25650.11万元。 其中， 201 5 年虚增收入 48182.17万元 ，虚增利润 23226.34万元 ， 虚增利润金额占当年 披露 利润总额的 73.08 ；2016年1至9月虚增收入10130.24万元， 相应虚增 当 期 利润 2423.77万元，占当期披露利润总额的 19.74。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条第一款之规定，我会决定： 一，对雅百特责令改正，给予警告，并处以60万元罚款； 二，对 陆永、顾彤莉、施妙芳 给予警告，并分别处以30万元罚款； 三， 对 褚衍玲、陈建辉 给予警告，并分别处以 2 0万元罚款 ； 四，对 李冬明、刘元玲、秦静给予警告，并分别处以 5万元罚款； 五，对 张峥、潘飞、童敏明、彭玲玲、温世燕、陈冬尔给予警告，并分别处以 4万元罚款； 六，对涂振连、赵阿平、单少芳、张庭、王国红、张明给予警告，并分别处以 3万元罚款。"
+  ]
+}

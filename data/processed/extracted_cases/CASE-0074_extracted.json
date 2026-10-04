@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0074",
+  "case_number": "201796.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "600735",
+  "stock_name": "新华锦",
+  "manipulation_start_date": "2015-02-09",
+  "manipulation_end_date": "2015-08-27",
+  "manipulation_duration_days": 199,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "600735.SH"
+}

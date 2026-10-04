@@ -1,0 +1,103 @@
+# 数据基建配置文件
+
+# 证监会爬虫配置
+csrc:
+  base_url: "http://www.csrc.gov.cn"
+  penalty_list_url: "/csrc/c101928/zfxxgk_zdgk.shtml"
+  # 爬取时间范围
+  start_year: 2014
+  end_year: 2024
+  # 请求配置
+  request_delay: 2  # 请求间隔（秒）
+  timeout: 30
+  max_retries: 3
+  # 关键词过滤（操纵类案件）
+  manipulation_keywords:
+    - "操纵"
+    - "对倒"
+    - "虚假申报"
+    - "连续交易"
+    - "约定交易"
+    - "洗售"
+    - "拉抬"
+    - "打压"
+
+# A股数据配置
+astock:
+  # 数据频率
+  frequency: "1min"  # 1min, 5min, 15min, 30min, 60min, daily
+  # 获取字段
+  fields:
+    - "open"
+    - "high"
+    - "low"
+    - "close"
+    - "volume"
+    - "amount"
+    - "turnover_rate"
+  # 额外数据
+  extra_data:
+    - "dragon_tiger"  # 龙虎榜
+    - "block_trade"   # 大宗交易
+
+# 加密货币数据配置
+crypto:
+  # 数据源
+  source: "binance"  # binance, okx, huobi
+  # 交易对（重点关注模因币和小市值币）
+  symbols:
+    - "BTCUSDT"
+    - "ETHUSDT"
+    - "DOGEUSDT"
+    - "SHIBUSDT"
+    - "PEPEUSDT"
+    - "FLOKIUSDT"
+  # 时间范围
+  start_date: "2021-01-01"
+  end_date: "2024-12-01"
+  # 数据频率
+  interval: "1m"  # 1m, 5m, 15m, 1h, 4h, 1d
+
+# 操纵标注规则配置
+labeling:
+  # 拉高出货检测规则
+  pump_dump:
+    # 短时涨幅阈值
+    price_surge_threshold: 0.10  # 10%
+    price_surge_window: 5        # 分钟
+    # 成交量放大倍数
+    volume_multiplier: 5
+    # 回落阈值
+    price_drop_threshold: 0.50   # 50%
+    price_drop_window: 30        # 分钟
+  
+  # 对倒交易检测规则
+  wash_trade:
+    # 买卖价差阈值
+    spread_threshold: 0.001
+    # 成交量异常倍数
+    volume_anomaly: 3
+    # 时间窗口
+    window_minutes: 10
+
+# LLM配置（用于信息提取）
+llm:
+  provider: "gemini"  # gemini, openai, anthropic
+  model: "gemini-2.0-flash"  # gemini-2.0-flash, gemini-2.5-flash（最新）
+  temperature: 0.1
+  max_tokens: 4096
+  # API密钥从环境变量读取
+  api_key_env: "GOOGLE_API_KEY"
+
+# 数据存储路径
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  labeled_data: "data/labeled"
+  logs: "logs"
+
+# 日志配置
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+

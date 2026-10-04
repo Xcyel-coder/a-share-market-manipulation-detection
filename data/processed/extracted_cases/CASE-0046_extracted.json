@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0046",
+  "case_number": "202305.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002780",
+  "stock_name": "三夫户外",
+  "manipulation_start_date": "2018-11-01",
+  "manipulation_end_date": "2020-06-19",
+  "manipulation_duration_days": 596,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002780.SZ"
+}

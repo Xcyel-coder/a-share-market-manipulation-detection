@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0088",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "603266",
+  "stock_name": "天龙股份",
+  "manipulation_start_date": "2019-02-13",
+  "manipulation_end_date": "2019-05-10",
+  "manipulation_duration_days": 86,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "603266.SH"
+}

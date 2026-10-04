@@ -1,0 +1,29 @@
+{
+  "doc_id": "CSRC-URL-7608088",
+  "case_number": "2025 153 号",
+  "defendant_name": "公证天业会计师事务所特殊普通合伙",
+  "defendant_type": "机构",
+  "stock_code": "None",
+  "stock_name": "华道生物",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "公证天业为华道生物IPO提供审计服务未勤勉尽责，出具的审计报告存在虚假记载。",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 0.0,
+  "illegal_profit": 0.0,
+  "penalty_type": "罚款",
+  "fine_amount": 2000000.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 0,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101928/c7608088/content.shtml",
+  "publish_date": "2026-01-09 18:06:16",
+  "extract_time": "2026-03-05T13:34:23.095813",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "一、 公证天业 为华道生物 IPO 提供审计服务出具的审计报告存在虚假记载 经我会另案查明  2019 年至 2021 年华道生物以虚开发票的方式虚假销售产品同时伪造销售回款导致《首次公开发行股票并在创业板上市招股说明书》披露的销售收入和利润等存在虚假记载 。 公证天业为 华道生物 IPO 提供审计服务  出具了标准无保留意见的审计报告 双方约定 审计 收费 200 万元截至我会调查结束时未能实际收取 。 公证天业 在执业过程中未勤勉尽责 出具的 审计报告存在虚假记载 。 刘勇 、 杨悦为签字 注册 会计师。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度依据《证券法》第二百一十三条第三款的规定我会决定 一、对 公证天业会计师事务所特殊普通合伙 责令改正并处以 200 万元 的 罚款 二、对刘勇、杨悦给予警告并分别处以 40 万元的罚款。"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "doc_id": "CSRC-2023-060",
+  "case_number": "202360号",
+  "defendant_name": "赖登练",
+  "defendant_type": "个人",
+  "stock_code": "002858",
+  "stock_name": "力盛赛车",
+  "manipulation_start_date": "2020-01-03",
+  "manipulation_end_date": "2020-12-24",
+  "manipulation_duration_days": 357,
+  "manipulation_methods": [
+    "连续交易",
+    "对倒交易"
+  ],
+  "manipulation_description": "赖登练控制使用账户组集中资金优势、持股优势，通过连续交易或者在自己实际控制的账户之间进行证券交易，操纵力盛赛车交易价格或者交易量。",
+  "account_count": 75,
+  "account_group_description": "上海翎巧资产管理有限公司-速赢翎巧1号私募证券投资基金等共计75个证券账户，存在IP、MAC关联。",
+  "involved_amount": 1713800128.26,
+  "illegal_profit": -50745848.29,
+  "penalty_type": "罚款",
+  "fine_amount": 5000000.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 0,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101928/c7429146/content.shtml",
+  "publish_date": "2024-01-29 10:08:17",
+  "extract_time": "2026-03-05T13:34:05.910504",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "经查明赖登练存在以下违法事实 一、赖登练控制使用证券账户以及交易决策情况 赖登练控制使用上海翎巧资产管理有限公司-速赢翎巧1号私募证券投资基金等共计75个证券账户以下简称账户组进行交易。75个证券账户在交易涉案股票期间存在IP、MAC关联并由赖登练自认、部分证券账户介绍人指认、部分证券账户与赖登练有签署协议。资金来源于账户配资资金及自有资金交易由赖登练本人决策、盈亏由赖登练负责。",
+    "2020年1月3日至12月24日期间赖登练控制使用账户组集中资金优势、持股优势通过连续交易或者在自己实际控制的账户之间进行证券交易操纵、影响力盛赛车交易价格或者交易量。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度依据《证券法》第一百九十二条的规定我会决定 对赖登练操纵证券市场的行为处以500万元的罚款。"
+  ]
+}

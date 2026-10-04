@@ -1,0 +1,33 @@
+{
+  "doc_id": "CSRC-2022-064",
+  "case_number": "202264号",
+  "defendant_name": "王宝元",
+  "defendant_type": "个人",
+  "stock_code": "601518",
+  "stock_name": "吉林高速",
+  "manipulation_start_date": "2020-02-03",
+  "manipulation_end_date": "2020-11-06",
+  "manipulation_duration_days": 278,
+  "manipulation_methods": [
+    "连续交易",
+    "虚假申报",
+    "在自己实际控制的账户之间进行交易"
+  ],
+  "manipulation_description": "王宝元控制使用145个证券账户，集中资金优势连续买卖、在自己实际控制的账户之间进行交易等方式，操纵吉林高速、大连热电、宜宾纸业、绿城水务、宁波热电、哈森股份、友邦吊顶、大庆华科等股票，影响股票价格和交易量。",
+  "account_count": 145,
+  "account_group_description": "王宝元控制并使用林某云渤海证券账户等145个证券账户。",
+  "involved_amount": 0.0,
+  "illegal_profit": 142690148.86,
+  "penalty_type": "没收、罚款",
+  "fine_amount": 428070446.58,
+  "confiscation_amount": 142690148.86,
+  "market_ban_years": 0,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101928/c6932470/content.shtml",
+  "publish_date": "2024-01-29 10:07:46",
+  "extract_time": "2026-03-05T14:38:11.559664",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "经查明王宝元存在以下违法事实 一、王宝元控制使用账户情况 为实施操纵行为王宝元共控制并使用林某云渤海证券账户等145个证券账户。其中第一轮操纵吉林高速使用24个账户第二轮操纵吉林高速使用32个账户操纵大连热电使用22个账户操纵宜宾纸业使用18个账户操纵绿城水务使用19个账户操纵宁波热电使用27个账户操纵哈森股份使用26个账户操纵友邦吊顶使用23个账户操纵大庆华科使用54个账户。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度依据《证券法》第一百九十二条的规定我会决定没收王宝元违法所得142690148.86元并处以428070446.58元罚款。"
+  ]
+}

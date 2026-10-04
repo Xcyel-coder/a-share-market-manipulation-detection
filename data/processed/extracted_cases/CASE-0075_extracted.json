@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0075",
+  "case_number": "201727.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "600768",
+  "stock_name": "宁波富邦",
+  "manipulation_start_date": "2014-10-23",
+  "manipulation_end_date": "2015-09-16",
+  "manipulation_duration_days": 328,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "操控时间极长",
+  "source": "third_party_excel",
+  "original_stock_code": "600768.SH"
+}

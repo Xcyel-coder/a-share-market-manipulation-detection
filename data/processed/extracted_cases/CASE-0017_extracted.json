@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0017",
+  "case_number": "2020103.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002054",
+  "stock_name": "德美化工",
+  "manipulation_start_date": "2017-02-28",
+  "manipulation_end_date": "2018-02-22",
+  "manipulation_duration_days": 359,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002054.SZ"
+}

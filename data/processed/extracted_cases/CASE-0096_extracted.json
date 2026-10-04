@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0096",
+  "case_number": "202208.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "603617",
+  "stock_name": "君禾股份",
+  "manipulation_start_date": "2019-03-18",
+  "manipulation_end_date": "2019-08-22",
+  "manipulation_duration_days": 157,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "603617.SH"
+}

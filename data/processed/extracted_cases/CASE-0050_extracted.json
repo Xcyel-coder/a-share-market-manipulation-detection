@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0050",
+  "case_number": "2019128.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "300069",
+  "stock_name": "金利华电",
+  "manipulation_start_date": "2015-10-08",
+  "manipulation_end_date": "2018-04-27",
+  "manipulation_duration_days": 932,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "300069.SZ"
+}

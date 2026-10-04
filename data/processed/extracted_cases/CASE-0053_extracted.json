@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0053",
+  "case_number": "202229.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "300260",
+  "stock_name": "新莱应材",
+  "manipulation_start_date": "2018-02-12",
+  "manipulation_end_date": "2018-09-10",
+  "manipulation_duration_days": 210,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "300260.SZ"
+}

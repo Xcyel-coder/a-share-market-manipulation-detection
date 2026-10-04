@@ -1,0 +1,29 @@
+{
+  "doc_id": "CSRC-2017-095",
+  "case_number": "201795号",
+  "defendant_name": "广西慧球科技股份有限公司",
+  "defendant_type": "机构",
+  "stock_code": "None",
+  "stock_name": "慧球科技",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "慧球科技信息披露存在虚假记载，在《2016年半年度报告》《关于回复上海证券交易所关于公司终止重大资产重组有关事项的二次问询函的公告》《关于回复上交所 关于对公司信息披露有关事项的问询函 暨复牌提示性公告》中披露公司实际控制人未发生变更，与事实不符。",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 0.0,
+  "illegal_profit": 0.0,
+  "penalty_type": "警告, 罚款",
+  "fine_amount": 0.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042651/content.shtml",
+  "publish_date": "2024-01-29 10:10:43",
+  "extract_time": "2026-03-05T13:34:01.601290",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "2016年7月2 0 日，慧球科技在《关于回复上海证券 交易所  关于公司终止重大资产重组有关事项的二次问询函  的公告》中称截止目前公司实际控制人并未发生变化，仍为 顾某平 先生。\n同年 8月 8 日，慧球科技发布《关于回复上交所  关于对公司信息披露有关事项的问询函  暨复牌提示性公告》称经本公司核实，截止本回函公告日，公司实际控制人未发生变更。\n同年 8月 29 日，慧球科技在 《 2016年半年度报告 》 中披露 公司实际控制人未发生变更。上述披露与事实不符，为虚假记载。",
+    "慧球科技披露的 《 2016年半年度报告 》 《 关于回复上海证券 交易所  关于公司终止重大资产重组有关事项的二次问询函  的公告》《关于回复上交所  关于对公司信息披露有关事项的问询函  暨复牌提示性公告》 均 违反了《证券法》第 六十三 条 、第六十五条、第六十七条及《上市公司信息披露管理办法》第二十二条 的规定，构成《证券法》第 一百九十三 条所述发行人、上市公司或者其他信息披露义务人未按照规定披露信息，或者披露的信息有虚假记载、误导性陈述或者重大遗漏的行为 。"
+  ]
+}

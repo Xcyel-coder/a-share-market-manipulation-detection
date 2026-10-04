@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0045",
+  "case_number": "202337.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "002776",
+  "stock_name": "柏堡龙",
+  "manipulation_start_date": "2018-07-06",
+  "manipulation_end_date": "2019-05-31",
+  "manipulation_duration_days": 329,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "002776.SZ"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0061",
+  "case_number": "202128.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "600242",
+  "stock_name": "中昌数据",
+  "manipulation_start_date": "2018-02-09",
+  "manipulation_end_date": "2019-01-16",
+  "manipulation_duration_days": 341,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "600242.SH"
+}

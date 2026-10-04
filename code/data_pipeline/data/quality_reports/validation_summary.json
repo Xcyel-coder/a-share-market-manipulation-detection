@@ -1,0 +1,29 @@
+{
+  "validation_time": "2026-03-05T14:51:46.173399",
+  "reports": {
+    "csrc": {
+      "total_records": 54,
+      "validity_rate": "100.0%",
+      "completeness_rate": "100.0%",
+      "issues_count": 29
+    },
+    "extracted_cases": {
+      "total_records": 49,
+      "validity_rate": "53.1%",
+      "completeness_rate": "79.6%",
+      "issues_count": 38
+    },
+    "crypto": {
+      "total_records": 9701977,
+      "validity_rate": "100.0%",
+      "completeness_rate": "100.0%",
+      "issues_count": 0
+    },
+    "crypto_labels": {
+      "total_records": 30,
+      "validity_rate": "100.0%",
+      "completeness_rate": "100.0%",
+      "issues_count": 0
+    }
+  }
+}

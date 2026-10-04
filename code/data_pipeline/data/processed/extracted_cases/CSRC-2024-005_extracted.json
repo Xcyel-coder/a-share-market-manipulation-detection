@@ -1,0 +1,29 @@
+{
+  "doc_id": "CSRC-2024-005",
+  "case_number": "20245号",
+  "defendant_name": "郭新峰",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": "航天动力",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "航天动力2016年至2020年年度报告存在虚假记载，郭新峰作为时任航天动力董事、总经理，是直接负责的主管人员。",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 0.0,
+  "illegal_profit": 0.0,
+  "penalty_type": "市场禁入",
+  "fine_amount": 0.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 10,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101927/c7470684/content.shtml",
+  "publish_date": "2024-03-29 16:05:53",
+  "extract_time": "2026-03-05T13:31:31.556961",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "郭新峰作为时任航天动力董事、总经理与隋某力进行过直接商谈接洽是航天动力与隋某力初始建立业务关系的主要决策人 是航天动力以垫资方式和 2016 年无实物流转方式参与 隋某力 专网通信业务的主要决策人  行为恶劣情节 较为 严重 并以董事、总经理身份对 2016 年年报签署书面确认意见 是 航天动力 定期报告 信息披露违法行为 直接负责的主管人员。",
+    "郭新峰 组织、领导、实施了航天动力智能数据模块贸易业务造假事项直接导致航天 动力 相关信息披露违法行为的发生 行为恶劣 情节 较为 严重 依据 2005 年《证券法》 第二百 三十三 条 和 2015 年修订的 《证券市场禁入规定》 证监会令第 115 号 第三条 第一项 、第五条的规定  我会决定对 郭新峰 采取 10 年证券市场禁入措施。"
+  ]
+}

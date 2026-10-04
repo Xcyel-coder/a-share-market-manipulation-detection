@@ -1,0 +1,30 @@
+{
+  "doc_id": "CSRC-2017-072",
+  "case_number": "201772号",
+  "defendant_name": "林庆义",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": null,
+  "manipulation_start_date": "2004-07-09",
+  "manipulation_end_date": "2009-06-08",
+  "manipulation_duration_days": 1796,
+  "manipulation_methods": [],
+  "manipulation_description": "林庆义操作姜某账户进行证券交易，期间累计交易股票154只，买入金额为5079233979.67元，卖出金额为5162722415.61元，共获利70653391.23元。",
+  "account_count": 1,
+  "account_group_description": "姜某账户",
+  "involved_amount": 0.0,
+  "illegal_profit": 70653391.23,
+  "penalty_type": "没收, 罚款",
+  "fine_amount": 70653391.23,
+  "confiscation_amount": 70653391.23,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042674/content.shtml",
+  "publish_date": "2024-01-29 10:08:06",
+  "extract_time": "2026-03-05T14:38:29.813131",
+  "confidence_score": 0.5714285714285714,
+  "key_paragraphs": [
+    "林庆义于2001年5月9日至2009年7月23日期间，在南方证券股份有限公司和中国建银投资证券有限责任公司任职，为证券从业人员。林庆义与姜某系朋友关系。2004年7月9日至2009年6月8日期间，林庆义操作姜某账户进行证券交易，期间累计交易股票154只，买入金额为5079233979.67元，卖出金额为5162722415.61元，共获利70653391.23元。",
+    "林庆义上述行为违反《证券法》第四十三条的规定，构成了《证券法》第一百九十九条所述禁止参与股票交易的人员持有、买卖股票的情形。",
+    "没收林庆义违法所得 70653391.23 元，并处以 70653391.23元 罚款 。"
+  ]
+}

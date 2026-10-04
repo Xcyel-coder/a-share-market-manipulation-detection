@@ -1,0 +1,14 @@
+{
+  "symbol": "SHIBUSDT",
+  "interval": "1m",
+  "start_date": "2021-05-10T11:00:00",
+  "end_date": "2024-11-30T16:00:00",
+  "total_records": 1871831,
+  "files": [
+    "data/raw/crypto/SHIBUSDT/2021.parquet",
+    "data/raw/crypto/SHIBUSDT/2022.parquet",
+    "data/raw/crypto/SHIBUSDT/2023.parquet",
+    "data/raw/crypto/SHIBUSDT/2024.parquet"
+  ],
+  "save_time": "2025-12-23T18:54:25.462073"
+}

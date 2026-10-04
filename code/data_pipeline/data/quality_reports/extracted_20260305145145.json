@@ -1,0 +1,217 @@
+{
+  "report_id": "extracted_20260305145145",
+  "report_time": "2026-03-05T14:51:45.602326",
+  "data_type": "extracted_cases",
+  "total_records": 49,
+  "valid_records": 26,
+  "invalid_records": 23,
+  "validity_rate": 0.5306122448979592,
+  "missing_fields": {
+    "stock_code": 0,
+    "stock_name": 5,
+    "manipulation_start_date": 15,
+    "manipulation_end_date": 15,
+    "manipulation_methods": 15
+  },
+  "completeness_rate": 0.7959183673469388,
+  "consistency_issues": [],
+  "consistency_rate": 1.0,
+  "outlier_count": 0,
+  "outlier_rate": 0,
+  "issues": [
+    {
+      "file": "CSRC-2017-109_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2017-084_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2017-084_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2023-267_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2023-267_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-URL-7604842_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2017-097_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2017-097_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2024-005_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2024-005_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2024-010_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2024-010_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2017-072_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2017-087_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2017-087_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2021-004_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2025-045_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2017-102_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2017-102_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2017-095_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2017-095_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2024-009_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2024-009_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2023-270_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2023-270_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2024-006_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2024-006_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2025-001_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2025-001_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-2023-256_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-2023-256_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-URL-7508746_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-URL-7608109_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-URL-7608109_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    },
+    {
+      "file": "CSRC-URL-7584447_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-URL-7608116_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-URL-7608088_extracted.json",
+      "issue": "invalid_stock_code",
+      "detail": "无效股票代码: None"
+    },
+    {
+      "file": "CSRC-URL-7608088_extracted.json",
+      "issue": "low_confidence",
+      "detail": "置信度过低: 0.43"
+    }
+  ],
+  "recommendations": [
+    "部分案件未识别操纵手法，建议检查提示词设计",
+    "有15个案件置信度较低，建议人工复核"
+  ]
+}

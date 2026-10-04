@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0051",
+  "case_number": "202101.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "300074",
+  "stock_name": "华平股份",
+  "manipulation_start_date": "2017-07-24",
+  "manipulation_end_date": "2018-06-26",
+  "manipulation_duration_days": 337,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "300074.SZ"
+}

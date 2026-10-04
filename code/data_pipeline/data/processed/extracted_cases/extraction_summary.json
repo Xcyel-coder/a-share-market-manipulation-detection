@@ -1,0 +1,293 @@
+{
+  "total_cases": 24,
+  "extract_time": "2026-03-05",
+  "cases": [
+    {
+      "doc_id": "CSRC-2017-064",
+      "stock_code": "600110",
+      "stock_name": "中科英华",
+      "manipulation_start_date": "2012-11-16",
+      "manipulation_end_date": "2013-03-25",
+      "methods": [
+        "内幕交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2017-077",
+      "stock_code": "600359",
+      "stock_name": "新农开发",
+      "manipulation_start_date": "2015-06-26",
+      "manipulation_end_date": "2015-06-29",
+      "methods": [
+        "连续交易",
+        "虚假申报",
+        "尾市拉抬"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2017-098",
+      "stock_code": "000591",
+      "stock_name": "桐君阁",
+      "manipulation_start_date": "2014-01-01",
+      "manipulation_end_date": "2016-06-30",
+      "methods": [
+        "虚假申报",
+        "尾市拉抬"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2018-002",
+      "stock_code": "600195",
+      "stock_name": "中牧股份",
+      "manipulation_start_date": "2015-06-11",
+      "manipulation_end_date": "2015-07-06",
+      "methods": [
+        "内幕交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2018-012",
+      "stock_code": "002163",
+      "stock_name": "ST三鑫",
+      "manipulation_start_date": "2015-03-06",
+      "manipulation_end_date": "2015-03-12",
+      "methods": [
+        "尾市拉抬"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2018-014",
+      "stock_code": "600067",
+      "stock_name": "冠城大通",
+      "manipulation_start_date": "2016-06-03",
+      "manipulation_end_date": "2016-08-04",
+      "methods": [
+        "集中资金优势",
+        "大额封涨停"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2018-022",
+      "stock_code": "300193",
+      "stock_name": "佳士科技",
+      "manipulation_start_date": "2015-03-01",
+      "manipulation_end_date": "2015-11-30",
+      "methods": [
+        "利用信息优势操纵"
+      ],
+      "confidence": 1
+    },
+    {
+      "doc_id": "CSRC-2021-124",
+      "stock_code": "603389",
+      "stock_name": "亚振家居",
+      "manipulation_start_date": "2018-04-27",
+      "manipulation_end_date": "2018-09-28",
+      "methods": [
+        "连续交易",
+        "盘中拉抬后反向卖出",
+        "对倒交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2022-064",
+      "stock_code": "601518",
+      "stock_name": "吉林高速",
+      "manipulation_start_date": "2020-02-03",
+      "manipulation_end_date": "2020-11-06",
+      "methods": [
+        "连续交易",
+        "虚假申报",
+        "在自己实际控制的账户之间进行交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2023-005",
+      "stock_code": "002780",
+      "stock_name": "三夫户外",
+      "manipulation_start_date": "2018-11-01",
+      "manipulation_end_date": "2020-06-19",
+      "methods": [
+        "连续交易",
+        "对倒交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2023-060",
+      "stock_code": "002858",
+      "stock_name": "力盛赛车",
+      "manipulation_start_date": "2020-01-03",
+      "manipulation_end_date": "2020-12-24",
+      "methods": [
+        "连续交易",
+        "对倒交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2023-077",
+      "stock_code": "002358",
+      "stock_name": "森源电气",
+      "manipulation_start_date": "2018-03-07",
+      "manipulation_end_date": "2019-02-27",
+      "methods": [
+        "虚假申报",
+        "拉抬",
+        "对倒交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2023-083",
+      "stock_code": "300400",
+      "stock_name": "劲拓股份",
+      "manipulation_start_date": "2017-11-06",
+      "manipulation_end_date": "2019-04-29",
+      "methods": [
+        "连续交易",
+        "对倒交易",
+        "利用信息优势"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2024-008",
+      "stock_code": "300038",
+      "stock_name": "数知科技",
+      "manipulation_start_date": "2020-10-29",
+      "manipulation_end_date": "2020-12-23",
+      "methods": [
+        "内幕交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2024-023",
+      "stock_code": "002730",
+      "stock_name": "电光科技",
+      "manipulation_start_date": "2020-12-15",
+      "manipulation_end_date": "2021-11-17",
+      "methods": [
+        "连续交易",
+        "对倒交易",
+        "拉抬股价"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2024-058",
+      "stock_code": "000587",
+      "stock_name": "ST 金洲",
+      "manipulation_start_date": "2020-05-26",
+      "manipulation_end_date": "2020-12-18",
+      "methods": [
+        "连续交易",
+        "对倒交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2024-059",
+      "stock_code": "002493",
+      "stock_name": "荣盛石化",
+      "manipulation_start_date": "2023-03-23",
+      "manipulation_end_date": "2023-03-27",
+      "methods": [
+        "内幕交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-2024-082",
+      "stock_code": "002808",
+      "stock_name": "恒久科技",
+      "manipulation_start_date": "2018-06-04",
+      "manipulation_end_date": "2018-11-26",
+      "methods": [
+        "连续交易"
+      ],
+      "confidence": 1
+    },
+    {
+      "doc_id": "CSRC-2025-003",
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "manipulation_start_date": "2022-11-15",
+      "manipulation_end_date": "2024-01-29",
+      "methods": [
+        "利用未公开信息交易",
+        "明示、暗示他人从事相关交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-URL-7520315",
+      "stock_code": "873690",
+      "stock_name": "腾茂科技",
+      "manipulation_start_date": "2023-06-19",
+      "manipulation_end_date": "2023-09-28",
+      "methods": [
+        "连续交易",
+        "在实际控制的账户之间进行交易",
+        "利用不确定的重大信息诱导投资者交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-URL-7532746",
+      "stock_code": "300503",
+      "stock_name": "昊志机电",
+      "manipulation_start_date": "2019-09-18",
+      "manipulation_end_date": "2020-12-31",
+      "methods": [
+        "连续交易",
+        "对倒交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-URL-7532795",
+      "stock_code": "300651",
+      "stock_name": "金陵体育",
+      "manipulation_start_date": "2017-06-14",
+      "manipulation_end_date": "2021-01-29",
+      "methods": [
+        "连续交易",
+        "对倒交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-URL-7564434",
+      "stock_code": "603985",
+      "stock_name": "恒润股份",
+      "manipulation_start_date": "2023-12-04",
+      "manipulation_end_date": "2023-12-05",
+      "methods": [
+        "内幕交易"
+      ],
+      "confidence": 0.8571428571428571
+    },
+    {
+      "doc_id": "CSRC-URL-7610753",
+      "stock_code": "300622",
+      "stock_name": "博士眼镜",
+      "manipulation_start_date": "2019-06-25",
+      "manipulation_end_date": "2024-08-16",
+      "methods": [
+        "连续交易",
+        "对倒交易"
+      ],
+      "confidence": 0.8571428571428571
+    }
+  ]
+}

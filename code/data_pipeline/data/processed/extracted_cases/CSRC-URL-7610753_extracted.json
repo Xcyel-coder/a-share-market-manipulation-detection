@@ -1,0 +1,33 @@
+{
+  "doc_id": "CSRC-URL-7610753",
+  "case_number": "2026 1 号",
+  "defendant_name": "余韩",
+  "defendant_type": "个人",
+  "stock_code": "300622",
+  "stock_name": "博士眼镜",
+  "manipulation_start_date": "2019-06-25",
+  "manipulation_end_date": "2024-08-16",
+  "manipulation_duration_days": 1880,
+  "manipulation_methods": [
+    "连续交易",
+    "对倒交易"
+  ],
+  "manipulation_description": "余韩通过集中资金优势、持股优势连续买卖，在自己实际控制的账户之间进行交易等手段，操纵“博士眼镜”，影响股票交易价格和交易量。",
+  "account_count": 67,
+  "account_group_description": "陈某 某 等 67 个账户",
+  "involved_amount": 2109994422.84,
+  "illegal_profit": 510892270.94,
+  "penalty_type": "没收, 罚款, 市场禁入, 禁止交易",
+  "fine_amount": 510892270.94,
+  "confiscation_amount": 510892270.94,
+  "market_ban_years": 3,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101928/c7610753/content.shtml",
+  "publish_date": "2026-01-23 17:03:33",
+  "extract_time": "2026-03-05T13:34:19.445141",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "操纵期间余韩通过集中资金优势、持股优势连续买卖在自己实际控制的账户之间进行交易等手段操纵  博士眼镜  影响股票交易价格和交易量。",
+    "经测算 余韩操纵  博士眼镜  违法所得为 510892270.94 元。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度依据《证券法》第一百九十二条的规定我会决定没收余韩 违法所得 510  892  270.9 4 元 并处以 510  892  270.9 4 元 的罚款 。"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "extracted_20260304201315",
+  "report_time": "2026-03-04T20:13:15.260072",
+  "data_type": "extracted_cases",
+  "total_records": 3,
+  "valid_records": 3,
+  "invalid_records": 0,
+  "validity_rate": 1.0,
+  "missing_fields": {
+    "stock_code": 0,
+    "stock_name": 0,
+    "manipulation_start_date": 0,
+    "manipulation_end_date": 0,
+    "manipulation_methods": 0
+  },
+  "completeness_rate": 1.0,
+  "consistency_issues": [],
+  "consistency_rate": 1.0,
+  "outlier_count": 0,
+  "outlier_rate": 0,
+  "issues": [],
+  "recommendations": []
+}

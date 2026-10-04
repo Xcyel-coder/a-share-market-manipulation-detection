@@ -1,0 +1,32 @@
+{
+  "doc_id": "CSRC-2024-082",
+  "case_number": "202482号",
+  "defendant_name": "陈韶隽、黄智俊",
+  "defendant_type": "个人",
+  "stock_code": "002808",
+  "stock_name": "恒久科技",
+  "manipulation_start_date": "2018-06-04",
+  "manipulation_end_date": "2018-11-26",
+  "manipulation_duration_days": 176,
+  "manipulation_methods": [
+    "连续交易"
+  ],
+  "manipulation_description": "陈韶隽、黄智俊控制账户组，集中资金优势、持股优势连续买卖，操纵、影响恒久科技交易价格和交易量。",
+  "account_count": 20,
+  "account_group_description": "马某行方正证券账户、刘某方正证券账户等20个证券账户",
+  "involved_amount": 0.0,
+  "illegal_profit": 31642219.84,
+  "penalty_type": "没收、罚款、市场禁入",
+  "fine_amount": 63284439.68,
+  "confiscation_amount": 31642219.84,
+  "market_ban_years": 5,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101928/c7508739/content.shtml",
+  "publish_date": "2024-09-25 20:13:43",
+  "extract_time": "2026-03-05T14:38:52.932252",
+  "confidence_score": 1,
+  "key_paragraphs": [
+    "2018 年 6 月 4 日至 2018 年 11 月 26 日陈韶隽和黄智俊控制使用涉案账户组集中资金优势、持股优势连续买卖操纵、影响  恒久科技  交易价格和交易量。",
+    "我会认为 2018 年 6 月 4 日至 2018 年 11 月 26 日 期间 陈韶隽、黄智俊 控制 账户组交易  恒久科技  通过集中资金优势、持股优势连续买卖  影响  恒久科技  交易价格和交易量账户组共计盈利 31642219.84 元 。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度依据 2005 年 《证券法》第二百零三条的规定我会决定 对陈韶隽和黄智俊共同操纵证券市场的行为 没收违法所得 31642219.84 元 由 陈韶隽承担 15821109.92 元、 黄智俊 承担 15821109.92 元。并对 陈韶隽 、黄智俊共同操纵证券市场的行为处以 6 3284439.68 元 罚款 由陈韶隽承担 31642219.84 元、黄智俊承担 31642219.84 元。"
+  ]
+}

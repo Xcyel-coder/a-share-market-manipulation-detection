@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0052",
+  "case_number": "202127.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "300110",
+  "stock_name": "华仁药业",
+  "manipulation_start_date": "2017-04-19",
+  "manipulation_end_date": "2018-02-27",
+  "manipulation_duration_days": 314,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "300110.SZ"
+}

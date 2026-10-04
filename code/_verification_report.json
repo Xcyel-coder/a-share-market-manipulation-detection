@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "gold": 25,
+    "silver": 45,
+    "bronze": 52,
+    "exact_match": 7,
+    "minor_dev": 0,
+    "major_dev": 9,
+    "no_csrc": 92
+  },
+  "total_records": 122,
+  "quality_distribution": {
+    "Gold": 25,
+    "Silver": 45,
+    "Bronze": 52
+  },
+  "csrc_extractions_total": 35,
+  "llm_extractions_total": 47,
+  "suspicious_long_duration": 7,
+  "verification_time": "2026-04-01T15:20:31.974946"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "CSRC-2017-097",
+  "case_number": "201797号",
+  "defendant_name": "哈尔滨电气集团佳木斯电机股份有限公司",
+  "defendant_type": "机构",
+  "stock_code": "None",
+  "stock_name": "佳电股份",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "佳电股份通过少结转佳电公司的主营业务成本、少计销售费用等方式，在2013年和2014年分别虚增利润1.58亿元、0.40亿元。2015年，佳电公司将前期调节的利润从2015年1月份开始逐月分期消化，直至全部转回 ， 恢复真实的财务状况。",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 0.0,
+  "illegal_profit": 0.0,
+  "penalty_type": "警告、罚款",
+  "fine_amount": 600000.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 0,
+  "source_url": "https://www.csrc.gov.cn/csrc/c101928/c1042649/content.shtml",
+  "publish_date": "2024-01-29 10:07:09",
+  "extract_time": "2026-03-05T13:31:46.554203",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "综上， 佳电股份调增2013年度利润总额 158437287.54元，调增 2014年度利润总额 39942583.68 元， 调减 2015年度 利润总额198379871.22元 的行为， 违反 了 《证券法》第 六十三 条上市公司依法披露的信息，必须真实、准确、完整，不得有虚假记载的规定，构成《证券法》第 一百九十三 条 第一款 所述的行为。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度，依据《证券法》第一百九十三条第一款之规定，我会决定： 一、对佳电股份责令改正，给予警告，并处以60万元的罚款； 二、 对赵明给予警告，并处以30万元的罚款； 三、 对 梁喜华 给予警告，并处以 2 0万元 的 罚款 ； 四、对 张英健、杜文朋给予警告，并分别处以 10 万元 的 罚款 ； 五、对 张志祥、陈光浩、 王红霞 给予警告，并分别处以 8 万元 的 罚款 ； 六、对 孙传尧、贾绍华、 胡凤滨、 郭寅给予警告，并分别处以 7 万元 的 罚款 ； 七、对 要志成、王小明、刘洪文、崔剑、王晓文、 张军 给予警告，并分别处以 5 万元 的 罚款 ； 八、对 李国强、高全宏、张胜根、常忠、闫红 给予警告，并分别处以 3 万元 的 罚款。"
+  ]
+}

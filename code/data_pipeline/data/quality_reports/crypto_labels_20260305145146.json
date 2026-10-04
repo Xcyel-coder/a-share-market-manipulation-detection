@@ -1,0 +1,21 @@
+{
+  "report_id": "crypto_labels_20260305145146",
+  "report_time": "2026-03-05T14:51:46.170357",
+  "data_type": "crypto_labels",
+  "total_records": 30,
+  "valid_records": 30,
+  "invalid_records": 0,
+  "validity_rate": 1.0,
+  "missing_fields": {},
+  "completeness_rate": 1.0,
+  "consistency_issues": [],
+  "consistency_rate": 1.0,
+  "outlier_count": 0,
+  "outlier_rate": 0.0,
+  "issues": [],
+  "recommendations": [
+    "平均置信度: 0.63",
+    "建议剔除置信度低于0.6的样本",
+    "建议人工抽查极端涨幅样本"
+  ]
+}

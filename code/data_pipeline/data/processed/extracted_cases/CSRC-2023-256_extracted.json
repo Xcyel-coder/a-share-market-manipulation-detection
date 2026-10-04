@@ -1,0 +1,29 @@
+{
+  "doc_id": "CSRC-2023-256",
+  "case_number": "2023256号",
+  "defendant_name": "唐文峰",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": "山东药玻",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "申请人举报山东药玻股本造假、财务造假、欺诈上市，但证监会山东监管局认为举报事项不属于其监管职责范围。",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 0.0,
+  "illegal_profit": 0.0,
+  "penalty_type": null,
+  "fine_amount": 0.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 0,
+  "source_url": "http://www.csrc.gov.cn/csrc/c105938/ce704fffbb6a84f21a71141dfaf23a125/content.shtml",
+  "publish_date": "2024-08-28 16:13:11",
+  "extract_time": "2026-03-05T13:33:31.050130",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "申请人复议请求责令被申请人依法查处山东省药用玻璃股份有限公司（以下简称山东药玻）股本造假、欺诈上市、财务造假。主要理由为：申请人于 2023 年 7 月 4 日前往中国证监会举报山东药玻股本造假、财务造假、欺诈上市。中国证监会于 7 月 11 日将材料转被申请人办理。被申请人于 8 月 30 日电话告知申请人上述事项不属于被申请人的监管职责范围，让申请人与沂源县政府沟通，且被申请人拒不出具答复书。",
+    "经了解，申请人来信材料中虽然提及财务造假、股本造假，但其指的是山东药玻上市前职工购买国有股，以及职工增加的工资（即改革储备金）转投资的事项，上述事项均不属于被申请人的监管职责范围，且其诉请履职的单位是沂源县委县政府。据此，被申请人于 2023 年 8 月 30 日告知申请人其反映的事项不属于被申请人的监管职责范围，并无不当。"
+  ]
+}

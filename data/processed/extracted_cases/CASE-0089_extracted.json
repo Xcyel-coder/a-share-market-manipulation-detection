@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0089",
+  "case_number": "202270.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "603303",
+  "stock_name": "得邦照明",
+  "manipulation_start_date": "2018-05-22",
+  "manipulation_end_date": "2019-05-08",
+  "manipulation_duration_days": 351,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "603303.SH"
+}

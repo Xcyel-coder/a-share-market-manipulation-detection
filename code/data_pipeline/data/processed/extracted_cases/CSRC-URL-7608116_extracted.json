@@ -1,0 +1,31 @@
+{
+  "doc_id": "CSRC-URL-7608116",
+  "case_number": "〔2025〕150 号",
+  "defendant_name": "赵伟",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": "相关公司股票",
+  "manipulation_start_date": "2024-05-29",
+  "manipulation_end_date": "2024-06-27",
+  "manipulation_duration_days": 30,
+  "manipulation_methods": [
+    "内幕交易"
+  ],
+  "manipulation_description": "赵伟实际控制多个他人证券账户集中买入相关公司股票，内幕信息公开后全部卖出。",
+  "account_count": 0,
+  "account_group_description": "实际控制多个他人证券账户",
+  "involved_amount": 0.0,
+  "illegal_profit": 1766238.99,
+  "penalty_type": "没收, 罚款",
+  "fine_amount": 5298716.97,
+  "confiscation_amount": 1766238.99,
+  "market_ban_years": 0,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101928/c7608116/content.shtml",
+  "publish_date": "2026-01-09 18:22:43",
+  "extract_time": "2026-03-05T13:34:26.431600",
+  "confidence_score": 0.8571428571428571,
+  "key_paragraphs": [
+    "2024 年 5 月 29 日至 6 月 27 日 赵伟 实际控制 多个他人 证券账户集中买入 相关公司股票  内幕信息公开后全部卖出 共获利 1766238.99 元 。",
+    "根据当事人违法行为的事实、性质、情节与社会危害程度依据 《证券法》 第 一百九十一 条 第一款 的规定我会决定  没收赵伟违法所得 1766238.99 元 并处以 5298716.97 元 罚款。"
+  ]
+}

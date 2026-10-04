@@ -1,0 +1,30 @@
+{
+  "doc_id": "CSRC-2024-009",
+  "case_number": "20249号",
+  "defendant_name": "袁亚非",
+  "defendant_type": "个人",
+  "stock_code": "None",
+  "stock_name": "宏图高科",
+  "manipulation_start_date": null,
+  "manipulation_end_date": null,
+  "manipulation_duration_days": 0,
+  "manipulation_methods": [],
+  "manipulation_description": "三胞集团作为宏图高科控股股东授意、指挥宏图高科 2017 年和 2018 年 实施虚构交易、虚增收入、虚增利润以及 2017 年至 2021 年 表外融资少计负债 导致宏图高科 2017 年至 2021 年年度报告存在虚假记载。",
+  "account_count": 0,
+  "account_group_description": null,
+  "involved_amount": 0.0,
+  "illegal_profit": 0.0,
+  "penalty_type": "市场禁入",
+  "fine_amount": 0.0,
+  "confiscation_amount": 0.0,
+  "market_ban_years": 10,
+  "source_url": "http://www.csrc.gov.cn/csrc/c101927/c7500975/content.shtml",
+  "publish_date": "2024-08-16 18:34:23",
+  "extract_time": "2026-03-05T13:31:27.980569",
+  "confidence_score": 0.42857142857142855,
+  "key_paragraphs": [
+    "经查 2017 年至 2018 年宏图高科通过宏图三胞高科技术有限公司以下简称宏图三胞 及其 32 家子公司、 3 家分公司与三胞集团安排设立、借用并控制 的 交由宏图三胞管理 的 南京龙昀电脑有限公司等 18 家公司虚构购销业务虚增收入和利润导致 2017 年和 2018 年年度报告存在虚假记载。",
+    "三胞集团作为宏图高科控股股东授意、指挥宏图高科 2017 年和 2018 年 实施虚构交易、虚增收入、虚增利润以及 2017 年至 2021 年 表外融资少计负债 导致宏图高科 2017 年至 2021 年年度报告存在虚假记载 。",
+    "依据 《证券法》 第二百二十一条 、《证券市场禁入规定》证监会令第 185 号 第三条第一项、第四条第一款第一项、第五条和第七条 第一款 的规定我会决定对袁亚非采取 10 年市场禁入措施 在禁入期间内除不得继续在原机构从事证券业务、证券服务业务或者担任原证券发行人的董事、监事、高级管理人员职务外也不得在其他任何机构中从事证券业务、证券服务业务或者担任其他证券发行人的董事、监事、高级管理人员职务 。"
+  ]
+}

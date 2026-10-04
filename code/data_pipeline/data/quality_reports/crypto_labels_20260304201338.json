@@ -1,0 +1,24 @@
+{
+  "report_id": "crypto_labels_20260304201338",
+  "report_time": "2026-03-04T20:13:38.664409",
+  "data_type": "crypto_labels",
+  "total_records": 0,
+  "valid_records": 0,
+  "invalid_records": 0,
+  "validity_rate": 0,
+  "missing_fields": {},
+  "completeness_rate": 0,
+  "consistency_issues": [],
+  "consistency_rate": 0,
+  "outlier_count": 0,
+  "outlier_rate": 0,
+  "issues": [
+    {
+      "issue": "no_data",
+      "detail": "数据目录不存在"
+    }
+  ],
+  "recommendations": [
+    "请先执行数据采集: 数据目录不存在"
+  ]
+}

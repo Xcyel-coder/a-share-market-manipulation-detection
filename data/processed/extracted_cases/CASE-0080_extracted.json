@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0080",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "601011",
+  "stock_name": "宝泰隆",
+  "manipulation_start_date": "2013-08-15",
+  "manipulation_end_date": "2014-01-06",
+  "manipulation_duration_days": 144,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "601011.SH"
+}

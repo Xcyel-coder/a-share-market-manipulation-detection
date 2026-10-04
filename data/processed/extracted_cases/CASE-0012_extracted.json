@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0012",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "000723",
+  "stock_name": "美锦能源",
+  "manipulation_start_date": "2015-06-11",
+  "manipulation_end_date": "2015-08-18",
+  "manipulation_duration_days": 68,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "1支股票在两段时期内被操纵",
+  "source": "third_party_excel",
+  "original_stock_code": "000723.SZ"
+}

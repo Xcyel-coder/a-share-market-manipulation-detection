@@ -1,0 +1,12 @@
+{
+  "symbol": "FLOKIUSDT",
+  "interval": "1m",
+  "start_date": "2023-05-05T18:00:00",
+  "end_date": "2024-11-30T16:00:00",
+  "total_records": 827881,
+  "files": [
+    "data/raw/crypto/FLOKIUSDT/2023.parquet",
+    "data/raw/crypto/FLOKIUSDT/2024.parquet"
+  ],
+  "save_time": "2025-12-23T19:10:12.213048"
+}

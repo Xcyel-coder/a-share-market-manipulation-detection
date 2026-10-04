@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0100",
+  "case_number": "202175.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "603823",
+  "stock_name": "百合花",
+  "manipulation_start_date": "2018-08-02",
+  "manipulation_end_date": "2019-04-26",
+  "manipulation_duration_days": 267,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "603823.SH"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0001",
+  "case_number": "202244.0",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "000150",
+  "stock_name": "宜华健康",
+  "manipulation_start_date": "2017-07-20",
+  "manipulation_end_date": "2019-03-15",
+  "manipulation_duration_days": 603,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "000150.SZ"
+}

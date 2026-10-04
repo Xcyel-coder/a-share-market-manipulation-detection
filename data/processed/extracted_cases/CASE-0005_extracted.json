@@ -1,0 +1,17 @@
+{
+  "doc_id": "CASE-0005",
+  "case_number": "nan",
+  "defendant_name": "",
+  "defendant_type": "",
+  "stock_code": "000582",
+  "stock_name": "北海港",
+  "manipulation_start_date": "2013-01-15",
+  "manipulation_end_date": "2013-05-10",
+  "manipulation_duration_days": 115,
+  "manipulation_methods": [
+    "操纵市场"
+  ],
+  "manipulation_description": "nan",
+  "source": "third_party_excel",
+  "original_stock_code": "000582.SZ"
+}
